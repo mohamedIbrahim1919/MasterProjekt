@@ -13,7 +13,7 @@ def add_parking_to_graph(graph: "nx.Graph", parking_nodes: List[Tuple]) -> None:
     """Add parking nodes to the graph"""
     for parking_node in parking_nodes:
         utm_coord = utm.from_latlon(*parking_node)[:2]  # Extract easting and northing
-        #print("Debug: utm_coord =", utm_coord)
+        print("Debug: utm_coord =", utm_coord)
         graph.add_node(tuple(utm_coord), category="Parking Node", utm_coord=utm_coord)
         graph_node, dist = find_nearest_node(graph, utm_coord)
         graph.add_edge(
