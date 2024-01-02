@@ -1,0 +1,170 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1560005744,
+                    50.7200287006
+                ]
+            },
+            "properties": {
+                "point_id": 86596,
+                "name": "Polizeipräsidium",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 3291,
+                "strasse_bezeichnung": "Königswinterer Straße",
+                "hausnr": "500",
+                "plz": "53113",
+                "telefon": "0228/ 154711",
+                "fax": "0228/ 15-1202",
+                "email": "poststelle.bonn@polizei.nrw.de",
+                "internet": "bonn.polizei.nrw/polizeiwachen",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "uid": 2117,
+                "strasse_ort": "0050-03291",
+                "plzort": "53113 Bonn",
+                "adresse": "Königswinterer Straße 500"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1134352117,
+                    50.7383514216
+                ]
+            },
+            "properties": {
+                "point_id": 113955,
+                "name": "Wasserschutzpolizei",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 3465,
+                "strasse_bezeichnung": "Rheinaustraße",
+                "hausnr": "132",
+                "plz": "53225",
+                "telefon": "02032803112",
+                "fax": null,
+                "email": null,
+                "internet": "duisburg.polizei.nrw",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "uid": 2861,
+                "strasse_ort": "0050-03465",
+                "plzort": "53225 Bonn",
+                "adresse": "Rheinaustraße 132"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0899626681,
+                    50.736534454
+                ]
+            },
+            "properties": {
+                "point_id": 588899,
+                "name": "Polizeiinspektion Mitte",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1113,
+                "strasse_bezeichnung": "Bornheimer Straße",
+                "hausnr": "19-25",
+                "plz": "53111",
+                "telefon": null,
+                "fax": null,
+                "email": null,
+                "internet": "bonn.polizei.nrw",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "uid": 3935,
+                "strasse_ort": "0050-01113",
+                "plzort": "53111 Bonn",
+                "adresse": "Bornheimer Straße 19-25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0565293044,
+                    50.7128038319
+                ]
+            },
+            "properties": {
+                "point_id": 588902,
+                "name": "Polizeihauptwache Duisdorf",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 4449,
+                "strasse_bezeichnung": "Villemombler Straße",
+                "hausnr": "77",
+                "plz": "53123",
+                "telefon": "0228 155511",
+                "fax": null,
+                "email": null,
+                "internet": "bonn.polizei.nrw",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "uid": 3939,
+                "strasse_ort": "0050-04449",
+                "plzort": "53123 Bonn",
+                "adresse": "Villemombler Straße 77"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1448949456,
+                    50.6893483121
+                ]
+            },
+            "properties": {
+                "point_id": 628915,
+                "name": "Polizeiwache Bad Godesberg",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 2127,
+                "strasse_bezeichnung": "Friesdorfer Straße",
+                "hausnr": "121",
+                "plz": "53173",
+                "telefon": null,
+                "fax": null,
+                "email": null,
+                "internet": "bonn.polizei.nrw",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "uid": 4589,
+                "strasse_ort": "0050-02127",
+                "plzort": "53173 Bonn",
+                "adresse": "Friesdorfer Straße 121"
+            }
+        }
+    ]
+}

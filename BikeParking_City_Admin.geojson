@@ -1,0 +1,4562 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0813823335,
+                    50.753333047
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "An der Josefshöhe",
+                "stellplatz_nr": 2,
+                "ortsteil": 2,
+                "ortsteil_bezeichnung": "Auerberg",
+                "stellplaetze_gesamt": 24,
+                "stellplaetze_ueberdacht": 24,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1592027665,
+                    50.6840720089
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Bad Godesberg Bhf.",
+                "stellplatz_nr": 3,
+                "ortsteil": 1,
+                "ortsteil_bezeichnung": "Alt-Godesberg",
+                "stellplaetze_gesamt": 374,
+                "stellplaetze_ueberdacht": 168,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1549057675,
+                    50.6863145209
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Bad Godesberg ",
+                "stellplatz_nr": 4,
+                "ortsteil": 1,
+                "ortsteil_bezeichnung": "Alt-Godesberg",
+                "stellplaetze_gesamt": 136,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1584295145,
+                    50.6803604974
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Stadthalle",
+                "stellplatz_nr": 5,
+                "ortsteil": 1,
+                "ortsteil_bezeichnung": "Alt-Godesberg",
+                "stellplaetze_gesamt": 40,
+                "stellplaetze_ueberdacht": 40,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1270355347,
+                    50.7389639554
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Beuel Bhf.",
+                "stellplatz_nr": 6,
+                "ortsteil": 3,
+                "ortsteil_bezeichnung": "Beuel-Mitte",
+                "stellplaetze_gesamt": 118,
+                "stellplaetze_ueberdacht": 70,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0971126003,
+                    50.7321406659
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Bonn Hbf. ",
+                "stellplatz_nr": 7,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 878,
+                "stellplaetze_ueberdacht": 320,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0811746693,
+                    50.7367050378
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Bonn West",
+                "stellplatz_nr": 8,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 37,
+                "stellplaetze_ueberdacht": 24,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0466759626,
+                    50.7582122593
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Buschdorf",
+                "stellplatz_nr": 9,
+                "ortsteil": 8,
+                "ortsteil_bezeichnung": "Buschdorf",
+                "stellplaetze_gesamt": 24,
+                "stellplaetze_ueberdacht": 24,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0429374191,
+                    50.7165126328
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Duisdorf",
+                "stellplatz_nr": 10,
+                "ortsteil": 11,
+                "ortsteil_bezeichnung": "Duisdorf",
+                "stellplaetze_gesamt": 90,
+                "stellplaetze_ueberdacht": 60,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0470303585,
+                    50.7373090536
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Dransdorf",
+                "stellplatz_nr": 11,
+                "ortsteil": 10,
+                "ortsteil_bezeichnung": "Dransdorf",
+                "stellplaetze_gesamt": 10,
+                "stellplaetze_ueberdacht": 10,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0620546724,
+                    50.7349174593
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Endenich Nord",
+                "stellplatz_nr": 12,
+                "ortsteil": 12,
+                "ortsteil_bezeichnung": "Endenich",
+                "stellplaetze_gesamt": 20,
+                "stellplaetze_ueberdacht": 20,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0529948964,
+                    50.7217901424
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Helmholtzstraße",
+                "stellplatz_nr": 13,
+                "ortsteil": 11,
+                "ortsteil_bezeichnung": "Duisdorf",
+                "stellplaetze_gesamt": 44,
+                "stellplaetze_ueberdacht": 44,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0933481541,
+                    50.7483069817
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Husarenstraße",
+                "stellplatz_nr": 14,
+                "ortsteil": 5,
+                "ortsteil_bezeichnung": "Bonn-Castell",
+                "stellplaetze_gesamt": 36,
+                "stellplaetze_ueberdacht": 20,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0868958435,
+                    50.7548783796
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Heinrich-Hertz Europakolleg",
+                "stellplatz_nr": 15,
+                "ortsteil": 17,
+                "ortsteil_bezeichnung": "Graurheindorf",
+                "stellplaetze_gesamt": 16,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1418622917,
+                    50.6970836078
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Hochkreuz / Deutsches Museum",
+                "stellplatz_nr": 16,
+                "ortsteil": 37,
+                "ortsteil_bezeichnung": "Plittersdorf",
+                "stellplaetze_gesamt": 40,
+                "stellplaetze_ueberdacht": 40,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0907634319,
+                    50.7512499391
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Innenministerium",
+                "stellplatz_nr": 17,
+                "ortsteil": 5,
+                "ortsteil_bezeichnung": "Bonn-Castell",
+                "stellplaetze_gesamt": 20,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1180055147,
+                    50.7394733774
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Konrad-Adenauer-Platz",
+                "stellplatz_nr": 18,
+                "ortsteil": 3,
+                "ortsteil_bezeichnung": "Beuel-Mitte",
+                "stellplaetze_gesamt": 57,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0713758505,
+                    50.7575636262
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Kopenhagener Straße",
+                "stellplatz_nr": 19,
+                "ortsteil": 2,
+                "ortsteil_bezeichnung": "Auerberg",
+                "stellplaetze_gesamt": 15,
+                "stellplaetze_ueberdacht": 15,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1319335944,
+                    50.730647338
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Limperich Nord",
+                "stellplatz_nr": 20,
+                "ortsteil": 31,
+                "ortsteil_bezeichnung": "Limperich",
+                "stellplaetze_gesamt": 8,
+                "stellplaetze_ueberdacht": 8,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0928362929,
+                    50.7456443226
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "LVR-Klinik",
+                "stellplatz_nr": 21,
+                "ortsteil": 5,
+                "ortsteil_bezeichnung": "Bonn-Castell",
+                "stellplaetze_gesamt": 20,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1364792174,
+                    50.7017654028
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Max-Löbner-Straße",
+                "stellplatz_nr": 22,
+                "ortsteil": 13,
+                "ortsteil_bezeichnung": "Friesdorf",
+                "stellplaetze_gesamt": 21,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1739356484,
+                    50.7099990269
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Oberkassel / Römlinghoven",
+                "stellplatz_nr": 23,
+                "ortsteil": 35,
+                "ortsteil_bezeichnung": "Oberkassel",
+                "stellplaetze_gesamt": 20,
+                "stellplaetze_ueberdacht": 20,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1267778096,
+                    50.7104920906
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Ollenhauerstraße",
+                "stellplatz_nr": 24,
+                "ortsteil": 18,
+                "ortsteil_bezeichnung": "Gronau",
+                "stellplaetze_gesamt": 44,
+                "stellplaetze_ueberdacht": 44,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0764666493,
+                    50.755267475
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Pariser Straße",
+                "stellplatz_nr": 25,
+                "ortsteil": 2,
+                "ortsteil_bezeichnung": "Auerberg",
+                "stellplaetze_gesamt": 20,
+                "stellplaetze_ueberdacht": 20,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1538784557,
+                    50.6879017988
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Plitterdorfer Straße",
+                "stellplatz_nr": 26,
+                "ortsteil": 15,
+                "ortsteil_bezeichnung": "Godesberg-Villenviertel",
+                "stellplaetze_gesamt": 30,
+                "stellplaetze_ueberdacht": 30,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0735403091,
+                    50.739128316
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Propsthof Nord",
+                "stellplatz_nr": 27,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 10,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1119542384,
+                    50.7047706528
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Quirinusplatz",
+                "stellplatz_nr": 28,
+                "ortsteil": 9,
+                "ortsteil_bezeichnung": "Dottendorf",
+                "stellplaetze_gesamt": 30,
+                "stellplaetze_ueberdacht": 30,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1551906584,
+                    50.7220765874
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Ramersdorf",
+                "stellplatz_nr": 29,
+                "ortsteil": 40,
+                "ortsteil_bezeichnung": "Ramersdorf",
+                "stellplaetze_gesamt": 20,
+                "stellplaetze_ueberdacht": 20,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1465570025,
+                    50.7257578452
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Schießbergweg",
+                "stellplatz_nr": 30,
+                "ortsteil": 40,
+                "ortsteil_bezeichnung": "Ramersdorf",
+                "stellplaetze_gesamt": 15,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0465685403,
+                    50.7508220984
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Tannenbusch Mitte",
+                "stellplatz_nr": 31,
+                "ortsteil": 46,
+                "ortsteil_bezeichnung": "Tannenbusch",
+                "stellplaetze_gesamt": 41,
+                "stellplaetze_ueberdacht": 13,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0551764181,
+                    50.7427184845
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Tannenbusch Süd",
+                "stellplatz_nr": 32,
+                "ortsteil": 46,
+                "ortsteil_bezeichnung": "Tannenbusch",
+                "stellplaetze_gesamt": 45,
+                "stellplaetze_ueberdacht": 26,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1181484174,
+                    50.7142713128
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "UN-Campus",
+                "stellplatz_nr": 33,
+                "ortsteil": 26,
+                "ortsteil_bezeichnung": "Kessenich",
+                "stellplaetze_gesamt": 56,
+                "stellplaetze_ueberdacht": 56,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1476791355,
+                    50.7543425483
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Vilich-Müldorf",
+                "stellplatz_nr": 34,
+                "ortsteil": 50,
+                "ortsteil_bezeichnung": "Vilich- Müldorf",
+                "stellplaetze_gesamt": 45,
+                "stellplaetze_ueberdacht": 45,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1476834069,
+                    50.6916045172
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Wurzerstraße",
+                "stellplatz_nr": 35,
+                "ortsteil": 37,
+                "ortsteil_bezeichnung": "Plittersdorf",
+                "stellplaetze_gesamt": 24,
+                "stellplaetze_ueberdacht": 24,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1815886717,
+                    50.6685742464
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Mehlem Bahnhof",
+                "stellplatz_nr": 36,
+                "ortsteil": 32,
+                "ortsteil_bezeichnung": "Mehlem",
+                "stellplaetze_gesamt": 180,
+                "stellplaetze_ueberdacht": 180,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0637299619,
+                    50.736304164
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Endenich Nord",
+                "stellplatz_nr": 37,
+                "ortsteil": 12,
+                "ortsteil_bezeichnung": "Endenich",
+                "stellplaetze_gesamt": 10,
+                "stellplaetze_ueberdacht": 10,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1183085868,
+                    50.7143259858
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "UN-Campus",
+                "stellplatz_nr": 38,
+                "ortsteil": 18,
+                "ortsteil_bezeichnung": "Gronau",
+                "stellplaetze_gesamt": 56,
+                "stellplaetze_ueberdacht": 56,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.051993643,
+                    50.7211898459
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Helmholtzstraße",
+                "stellplatz_nr": 39,
+                "ortsteil": 11,
+                "ortsteil_bezeichnung": "Duisdorf",
+                "stellplaetze_gesamt": 20,
+                "stellplaetze_ueberdacht": 20,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0531866851,
+                    50.7230308716
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Helmholtzstraße",
+                "stellplatz_nr": 40,
+                "ortsteil": 11,
+                "ortsteil_bezeichnung": "Duisdorf",
+                "stellplaetze_gesamt": 11,
+                "stellplaetze_ueberdacht": 11,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0478075485,
+                    50.7375098739
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Dransdorf",
+                "stellplatz_nr": 41,
+                "ortsteil": 10,
+                "ortsteil_bezeichnung": "Dransdorf",
+                "stellplaetze_gesamt": 10,
+                "stellplaetze_ueberdacht": 10,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0552809697,
+                    50.742563725
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Tannenbusch Süd",
+                "stellplatz_nr": 42,
+                "ortsteil": 46,
+                "ortsteil_bezeichnung": "Tannenbusch",
+                "stellplaetze_gesamt": 26,
+                "stellplaetze_ueberdacht": 26,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1742070964,
+                    50.7100582216
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Oberkassel / Römlinghoven",
+                "stellplatz_nr": 43,
+                "ortsteil": 35,
+                "ortsteil_bezeichnung": "Oberkassel",
+                "stellplaetze_gesamt": 15,
+                "stellplaetze_ueberdacht": 15,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1488074116,
+                    50.7291113948
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Kirchstraße 42 / Gallusstraße",
+                "stellplatz_nr": 45,
+                "ortsteil": 27,
+                "ortsteil_bezeichnung": "Küdinghoven",
+                "stellplaetze_gesamt": 12,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1132334315,
+                    50.7375873196
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Hans-Steger-Ufer (Anleger Ocean Paradise)",
+                "stellplatz_nr": 46,
+                "ortsteil": 3,
+                "ortsteil_bezeichnung": "Beuel-Mitte",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1182061324,
+                    50.7389800348
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Konrad-Adenauer-Platz 24",
+                "stellplatz_nr": 48,
+                "ortsteil": 3,
+                "ortsteil_bezeichnung": "Beuel-Mitte",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1176358784,
+                    50.7390704752
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Konrad-Adenauer-Platz 18",
+                "stellplatz_nr": 49,
+                "ortsteil": 3,
+                "ortsteil_bezeichnung": "Beuel-Mitte",
+                "stellplaetze_gesamt": 2,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1184536314,
+                    50.7395776769
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Konrad-Adenauer-Platz 28",
+                "stellplatz_nr": 50,
+                "ortsteil": 3,
+                "ortsteil_bezeichnung": "Beuel-Mitte",
+                "stellplaetze_gesamt": 10,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.119174464,
+                    50.740373294
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Sankt Augustiner Str. 21",
+                "stellplatz_nr": 51,
+                "ortsteil": 3,
+                "ortsteil_bezeichnung": "Beuel-Mitte",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1130770091,
+                    50.7404514904
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "An der Gierponte / südlich Am Bahnhöfchen",
+                "stellplatz_nr": 52,
+                "ortsteil": 3,
+                "ortsteil_bezeichnung": "Beuel-Mitte",
+                "stellplaetze_gesamt": 16,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1160073402,
+                    50.7387251356
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Hermannstr. 2",
+                "stellplatz_nr": 53,
+                "ortsteil": 3,
+                "ortsteil_bezeichnung": "Beuel-Mitte",
+                "stellplaetze_gesamt": 12,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1174324531,
+                    50.7362179101
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Hermannstr. / St. Josefs-Hospital",
+                "stellplatz_nr": 54,
+                "ortsteil": 3,
+                "ortsteil_bezeichnung": "Beuel-Mitte",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1167346567,
+                    50.7378785046
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Hermannstr. 19",
+                "stellplatz_nr": 55,
+                "ortsteil": 3,
+                "ortsteil_bezeichnung": "Beuel-Mitte",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1247224996,
+                    50.7398137631
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Obere Wilhelmstr. 20",
+                "stellplatz_nr": 56,
+                "ortsteil": 3,
+                "ortsteil_bezeichnung": "Beuel-Mitte",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1217576229,
+                    50.740745499
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Hans-Böckler-Str. 1",
+                "stellplatz_nr": 57,
+                "ortsteil": 3,
+                "ortsteil_bezeichnung": "Beuel-Mitte",
+                "stellplaetze_gesamt": 16,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.122224703,
+                    50.7397419693
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Fruedrich-Breuer-Str. 86 (Deutsche Bank)",
+                "stellplatz_nr": 58,
+                "ortsteil": 3,
+                "ortsteil_bezeichnung": "Beuel-Mitte",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1213050362,
+                    50.7396425265
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Friedrich-Breuer-Str. 79 (Obst und Gemüse) ",
+                "stellplatz_nr": 59,
+                "ortsteil": 3,
+                "ortsteil_bezeichnung": "Beuel-Mitte",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1228662171,
+                    50.7400156069
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Friedrich-Breuer-Str. 97",
+                "stellplatz_nr": 60,
+                "ortsteil": 3,
+                "ortsteil_bezeichnung": "Beuel-Mitte",
+                "stellplaetze_gesamt": 10,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1094442002,
+                    50.7323198207
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Rathenauufer / Erste Fährgasse / Rheinpavillon ",
+                "stellplatz_nr": 61,
+                "ortsteil": 45,
+                "ortsteil_bezeichnung": "Südstadt",
+                "stellplaetze_gesamt": 12,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1291576809,
+                    50.7190840398
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Heimkehrerweg / Hermann-Ehlers-Str. / Charles-de-Gaulle-Str.",
+                "stellplatz_nr": 62,
+                "ortsteil": 18,
+                "ortsteil_bezeichnung": "Gronau",
+                "stellplaetze_gesamt": 8,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0940691899,
+                    50.7418460843
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Michaelstr. 10",
+                "stellplatz_nr": 63,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0951220101,
+                    50.7341824905
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Münsterstraße 1",
+                "stellplatz_nr": 64,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 8,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0979965685,
+                    50.7365820745
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Friedensplatz 14",
+                "stellplatz_nr": 65,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.097791703,
+                    50.7366403607
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Friedensplatz / Sterntorbrücke / Wilhelmstraße",
+                "stellplatz_nr": 66,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 2,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1119176418,
+                    50.7044544118
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Quirinusplatz / Villenstraße",
+                "stellplatz_nr": 67,
+                "ortsteil": 9,
+                "ortsteil_bezeichnung": "Dottendorf",
+                "stellplaetze_gesamt": 8,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0943072569,
+                    50.7381319667
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Maxstr. 31",
+                "stellplatz_nr": 68,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 2,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0923286103,
+                    50.7395111519
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Heerstr. 84",
+                "stellplatz_nr": 69,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 2,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0900823161,
+                    50.7380831195
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Oppenhoffstr. 8",
+                "stellplatz_nr": 70,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.089373498,
+                    50.7385878741
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Adolfstr. 30",
+                "stellplatz_nr": 71,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0920264815,
+                    50.7397166914
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Dorotheenstr. 54",
+                "stellplatz_nr": 72,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0944653121,
+                    50.7409165365
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Georgstr. / Heerstr. ",
+                "stellplatz_nr": 73,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 2,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0956230515,
+                    50.7404826766
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Paulstr. 15",
+                "stellplatz_nr": 74,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 2,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0962512274,
+                    50.7393038234
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Breitestr. 68",
+                "stellplatz_nr": 75,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 2,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0957761474,
+                    50.7372253371
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Berliner Platz / Eingangsbereich des Stadthauses",
+                "stellplatz_nr": 76,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 20,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0952487218,
+                    50.7375123191
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Maxstr. 2 + 4, gegenüber (unter der Rampe)",
+                "stellplatz_nr": 77,
+                "ortsteil": 3,
+                "ortsteil_bezeichnung": "Beuel-Mitte",
+                "stellplaetze_gesamt": 14,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1680604383,
+                    50.6982071785
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Von-Sandt-Ufer / Am Schaumburger Hof",
+                "stellplatz_nr": 78,
+                "ortsteil": 37,
+                "ortsteil_bezeichnung": "Plittersdorf",
+                "stellplaetze_gesamt": 8,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1716137994,
+                    50.6905242361
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Von-Sandt-Ufer / Ecke Rheinallee",
+                "stellplatz_nr": 79,
+                "ortsteil": 42,
+                "ortsteil_bezeichnung": "Rüngsdorf",
+                "stellplaetze_gesamt": 9,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1881767343,
+                    50.670791607
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "John-J.-Mc Cloy-Ufer / Austraße",
+                "stellplatz_nr": 80,
+                "ortsteil": 42,
+                "ortsteil_bezeichnung": "Rüngsdorf",
+                "stellplaetze_gesamt": 8,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1958404556,
+                    50.6623857649
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "John-J.-Mc Cloy-Ufer / Siegfriedstraße",
+                "stellplatz_nr": 81,
+                "ortsteil": 32,
+                "ortsteil_bezeichnung": "Mehlem",
+                "stellplaetze_gesamt": 8,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1636563596,
+                    50.685026814
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Rüngsdorfer Str. 41",
+                "stellplatz_nr": 82,
+                "ortsteil": 15,
+                "ortsteil_bezeichnung": "Godesberg-Villenviertel",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1269081124,
+                    50.6978902819
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Klufterplatz",
+                "stellplatz_nr": 83,
+                "ortsteil": 13,
+                "ortsteil_bezeichnung": "Friesdorf",
+                "stellplaetze_gesamt": 12,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1592970798,
+                    50.6962485291
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Wurzerstr. 101/105",
+                "stellplatz_nr": 84,
+                "ortsteil": 37,
+                "ortsteil_bezeichnung": "Plittersdorf",
+                "stellplaetze_gesamt": 12,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0977859526,
+                    50.7418759957
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Am Johanneskreuz 8",
+                "stellplatz_nr": 85,
+                "ortsteil": 5,
+                "ortsteil_bezeichnung": "Bonn-Castell",
+                "stellplaetze_gesamt": 18,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1078729668,
+                    50.7311262648
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Adenauerallee 39-41 (vor der Uni-Bibliothek)",
+                "stellplatz_nr": 86,
+                "ortsteil": 45,
+                "ortsteil_bezeichnung": "Südstadt",
+                "stellplaetze_gesamt": 24,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1080330419,
+                    50.7359413855
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Brassertufer / Alter Zoll / Höhe Pavillon",
+                "stellplatz_nr": 87,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 12,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0493751598,
+                    50.7156711406
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Lessenicher Straße 1",
+                "stellplatz_nr": 88,
+                "ortsteil": 11,
+                "ortsteil_bezeichnung": "Duisdorf",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0489974676,
+                    50.7155474
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Lessenicher Straße 194",
+                "stellplatz_nr": 89,
+                "ortsteil": 11,
+                "ortsteil_bezeichnung": "Duisdorf",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0468095537,
+                    50.7143114131
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Rochusstraße / Bahnhofstraße ",
+                "stellplatz_nr": 90,
+                "ortsteil": 11,
+                "ortsteil_bezeichnung": "Duisdorf",
+                "stellplaetze_gesamt": 8,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0455232321,
+                    50.713805268
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Gegenüber Rochusstraße 239",
+                "stellplatz_nr": 91,
+                "ortsteil": 11,
+                "ortsteil_bezeichnung": "Duisdorf",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0426835659,
+                    50.7168036334
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Bahnhof Duisdorf, gegenüber von Lilienweg 33",
+                "stellplatz_nr": 92,
+                "ortsteil": 11,
+                "ortsteil_bezeichnung": "Duisdorf",
+                "stellplaetze_gesamt": 20,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1543219374,
+                    50.6847746365
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Koblenzer Str. 36 / Schultheißstr. (Rewe)",
+                "stellplatz_nr": 93,
+                "ortsteil": 1,
+                "ortsteil_bezeichnung": "Alt-Godesberg",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1545900479,
+                    50.6848230845
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Koblenzer Str. 37-39 (Woolworth)",
+                "stellplatz_nr": 94,
+                "ortsteil": 1,
+                "ortsteil_bezeichnung": "Alt-Godesberg",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1556204906,
+                    50.683847956
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Koblenzer Str. 57 (Buchhandlung)",
+                "stellplatz_nr": 95,
+                "ortsteil": 1,
+                "ortsteil_bezeichnung": "Alt-Godesberg",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1555386687,
+                    50.6842495615
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Alte Bahnhofstr. 6",
+                "stellplatz_nr": 96,
+                "ortsteil": 1,
+                "ortsteil_bezeichnung": "Alt-Godesberg",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1522679925,
+                    50.6828365177
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Am Fronhof gegenüber von Nr. 9",
+                "stellplatz_nr": 97,
+                "ortsteil": 1,
+                "ortsteil_bezeichnung": "Alt-Godesberg",
+                "stellplaetze_gesamt": 8,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1907590588,
+                    50.6626487007
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Mainzer Str. 151 / Ecke Schloßallee",
+                "stellplatz_nr": 98,
+                "ortsteil": 32,
+                "ortsteil_bezeichnung": "Mehlem",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1915294732,
+                    50.6615629579
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Mainzer Str. 175 / (Textilpflege)",
+                "stellplatz_nr": 99,
+                "ortsteil": 32,
+                "ortsteil_bezeichnung": "Mehlem",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1920872159,
+                    50.6607554404
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Mainzer Str. 180 (Vita Apotheke)",
+                "stellplatz_nr": 100,
+                "ortsteil": 32,
+                "ortsteil_bezeichnung": "Mehlem",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1258932747,
+                    50.7399848383
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Obere Wilhelmstr. 34 (Gegenüber vom Jugendzentrum GAP)",
+                "stellplatz_nr": 101,
+                "ortsteil": 3,
+                "ortsteil_bezeichnung": "Beuel-Mitte",
+                "stellplaetze_gesamt": 8,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1171450871,
+                    50.7479488654
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Clemensstr. 8",
+                "stellplatz_nr": 102,
+                "ortsteil": 43,
+                "ortsteil_bezeichnung": "Schwarzrheindorf / Vilich-Rheindorf",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1174697118,
+                    50.7480001512
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Clemensstr. 10",
+                "stellplatz_nr": 103,
+                "ortsteil": 43,
+                "ortsteil_bezeichnung": "Schwarzrheindorf / Vilich-Rheindorf",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1645668567,
+                    50.7138438052
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Königswinterer Str. 626c",
+                "stellplatz_nr": 104,
+                "ortsteil": 35,
+                "ortsteil_bezeichnung": "Oberkassel",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1650962381,
+                    50.7135454007
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Königswinterer Str. 630 (Ecke an der Post)",
+                "stellplatz_nr": 105,
+                "ortsteil": 35,
+                "ortsteil_bezeichnung": "Oberkassel",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1652975851,
+                    50.7134328969
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Königswinterer Str. 634",
+                "stellplatz_nr": 106,
+                "ortsteil": 35,
+                "ortsteil_bezeichnung": "Oberkassel",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1661927528,
+                    50.7128705859
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Königswinterer Str. 693",
+                "stellplatz_nr": 107,
+                "ortsteil": 35,
+                "ortsteil_bezeichnung": "Oberkassel",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1659360205,
+                    50.712800923
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Kastellstraße 3",
+                "stellplatz_nr": 108,
+                "ortsteil": 35,
+                "ortsteil_bezeichnung": "Oberkassel",
+                "stellplaetze_gesamt": 2,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1291081826,
+                    50.7150422465
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Posttower, Einmündung zur Fritz-Erler-Str.",
+                "stellplatz_nr": 109,
+                "ortsteil": 18,
+                "ortsteil_bezeichnung": "Gronau",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1087753437,
+                    50.712656996
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Pützstr. / Hausdorffstr.",
+                "stellplatz_nr": 110,
+                "ortsteil": 26,
+                "ortsteil_bezeichnung": "Kessenich",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0884732029,
+                    50.7375491032
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Adolfstr. 9-11",
+                "stellplatz_nr": 111,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1140509356,
+                    50.7202617217
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Buschstr. 58",
+                "stellplatz_nr": 112,
+                "ortsteil": 45,
+                "ortsteil_bezeichnung": "Südstadt",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0938377049,
+                    50.7403832758
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Heerstr. 45",
+                "stellplatz_nr": 113,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0740969217,
+                    50.727819759
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Endenicher Str. / Frongasse",
+                "stellplatz_nr": 114,
+                "ortsteil": 12,
+                "ortsteil_bezeichnung": "Endenich",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1049029316,
+                    50.7366767122
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Kapuzinerhof, gegenüber Kapuzinerstr. 3",
+                "stellplatz_nr": 115,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 8,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0959825191,
+                    50.7358275685
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Budapester Str. / Thomas-Mann-Str.",
+                "stellplatz_nr": 116,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0863919183,
+                    50.7373986667
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "August-Macke-Haus,  Bornheimer Str. / Hochstadenring",
+                "stellplatz_nr": 117,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0904541723,
+                    50.7239865025
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Am Botanischen Garten 2",
+                "stellplatz_nr": 118,
+                "ortsteil": 38,
+                "ortsteil_bezeichnung": "Poppelsdorf",
+                "stellplaetze_gesamt": 20,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0897810454,
+                    50.724010314
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Clemens-August-Str. 6",
+                "stellplatz_nr": 119,
+                "ortsteil": 38,
+                "ortsteil_bezeichnung": "Poppelsdorf",
+                "stellplaetze_gesamt": 8,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0894579279,
+                    50.7233546683
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Clemens-August-Str. 21",
+                "stellplatz_nr": 120,
+                "ortsteil": 38,
+                "ortsteil_bezeichnung": "Poppelsdorf",
+                "stellplaetze_gesamt": 8,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.089359582,
+                    50.7234316568
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Clemens-August-Str. 24",
+                "stellplatz_nr": 121,
+                "ortsteil": 38,
+                "ortsteil_bezeichnung": "Poppelsdorf",
+                "stellplaetze_gesamt": 8,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0896372171,
+                    50.7235981461
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Clemens-August-Str. 11",
+                "stellplatz_nr": 122,
+                "ortsteil": 38,
+                "ortsteil_bezeichnung": "Poppelsdorf",
+                "stellplaetze_gesamt": 16,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0886456212,
+                    50.7224303555
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Clemens-August-Str. 46 (im Bereich des Netto-Marktes)",
+                "stellplatz_nr": 123,
+                "ortsteil": 38,
+                "ortsteil_bezeichnung": "Poppelsdorf",
+                "stellplaetze_gesamt": 20,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0886181698,
+                    50.7225844174
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Kekuléstr. 1 (im Bereich des Netto-Marktes, vor den Steinpollern)",
+                "stellplatz_nr": 124,
+                "ortsteil": 38,
+                "ortsteil_bezeichnung": "Poppelsdorf",
+                "stellplaetze_gesamt": 12,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0693130563,
+                    50.7116883848
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Lengsdorfer Hauptstr. 28",
+                "stellplatz_nr": 125,
+                "ortsteil": 29,
+                "ortsteil_bezeichnung": "Lengsdorf",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0472234646,
+                    50.7160153675
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Am Burgweiher 51 (Post)",
+                "stellplatz_nr": 126,
+                "ortsteil": 29,
+                "ortsteil_bezeichnung": "Lengsdorf",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0487960023,
+                    50.7146856151
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Schmittstr. 3 (Haus der Gesundheit)",
+                "stellplatz_nr": 127,
+                "ortsteil": 11,
+                "ortsteil_bezeichnung": "Duisdorf",
+                "stellplaetze_gesamt": 16,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0597834253,
+                    50.7121649219
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Villemombler Str. 101 (Agentur für Arbeit)",
+                "stellplatz_nr": 128,
+                "ortsteil": 29,
+                "ortsteil_bezeichnung": "Lengsdorf",
+                "stellplaetze_gesamt": 12,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0497168352,
+                    50.7156194279
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Rochusstraße 180",
+                "stellplatz_nr": 129,
+                "ortsteil": 11,
+                "ortsteil_bezeichnung": "Duisdorf",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.045020138,
+                    50.7150260035
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Am Burgweiher 67",
+                "stellplatz_nr": 130,
+                "ortsteil": 11,
+                "ortsteil_bezeichnung": "Duisdorf",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0450628303,
+                    50.7153095739
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Bahnhofstraße 22-24 (Konditorei Voigt)",
+                "stellplatz_nr": 131,
+                "ortsteil": 11,
+                "ortsteil_bezeichnung": "Duisdorf",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1538240894,
+                    50.6854523681
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Oststr. / Koblenzer Str. ",
+                "stellplatz_nr": 132,
+                "ortsteil": 1,
+                "ortsteil_bezeichnung": "Alt-Godesberg",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1522796997,
+                    50.6818798595
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Brunnenallee / Redoutenweg",
+                "stellplatz_nr": 133,
+                "ortsteil": 1,
+                "ortsteil_bezeichnung": "Alt-Godesberg",
+                "stellplaetze_gesamt": 12,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1473226085,
+                    50.695275263
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Hindenburgallee Nr. 29",
+                "stellplatz_nr": 134,
+                "ortsteil": 37,
+                "ortsteil_bezeichnung": "Plittersdorf",
+                "stellplaetze_gesamt": 32,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0750841439,
+                    50.7268938485
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Frongasse 21 (im Bereich des Grünbeetes)",
+                "stellplatz_nr": 135,
+                "ortsteil": 12,
+                "ortsteil_bezeichnung": "Endenich",
+                "stellplaetze_gesamt": 30,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0902922818,
+                    50.7379592831
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Oppenhoffstr. 2",
+                "stellplatz_nr": 136,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 8,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1036259656,
+                    50.7343586029
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "An der Schloßkirche 2",
+                "stellplatz_nr": 137,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 24,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1008428192,
+                    50.7332676924
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Am Hof 7",
+                "stellplatz_nr": 138,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 30,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0999727466,
+                    50.7340592904
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Münsterplatz gegenüber Remigiusstraße 13 (Am Notausgang Tiefgarage vor dem Kaufhaus - Remigiusstraße 20)",
+                "stellplatz_nr": 142,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 16,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0995630956,
+                    50.7337518522
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Münsterplatz 1 (Am Notausgang Tiefgarage vor dem Münster)",
+                "stellplatz_nr": 143,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 10,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0989770232,
+                    50.7341992997
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Münsterplatz 9 (Am Notausgang Tiefgarage) ",
+                "stellplatz_nr": 144,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 8,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1016848585,
+                    50.7339325222
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Am Hof / Fürstenstr.",
+                "stellplatz_nr": 145,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 30,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1550702147,
+                    50.6852511679
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Bürgerstr. 4",
+                "stellplatz_nr": 146,
+                "ortsteil": 1,
+                "ortsteil_bezeichnung": "Alt-Godesberg",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1531753231,
+                    50.68512995
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Villichgasse 1",
+                "stellplatz_nr": 147,
+                "ortsteil": 1,
+                "ortsteil_bezeichnung": "Alt-Godesberg",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1530427035,
+                    50.6864089192
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Moltkestr. / Bonner Str.",
+                "stellplatz_nr": 148,
+                "ortsteil": 1,
+                "ortsteil_bezeichnung": "Alt-Godesberg",
+                "stellplaetze_gesamt": 14,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1233736824,
+                    50.7399865607
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Friedrich-Breuer-Str. / Dr. Weis-Platz",
+                "stellplatz_nr": 149,
+                "ortsteil": 3,
+                "ortsteil_bezeichnung": "Beuel-Mitte",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1236936641,
+                    50.7397139357
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Obere Wilhelmstr. 2",
+                "stellplatz_nr": 150,
+                "ortsteil": 3,
+                "ortsteil_bezeichnung": "Beuel-Mitte",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0962689532,
+                    50.7392511929
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Breite Straße 64",
+                "stellplatz_nr": 151,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 2,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0995714511,
+                    50.7307815244
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Prinz-Albert-Str. / Fußgängerunterführung",
+                "stellplatz_nr": 152,
+                "ortsteil": 45,
+                "ortsteil_bezeichnung": "Südstadt",
+                "stellplaetze_gesamt": 24,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0999105984,
+                    50.7309611828
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Prinz-Albert-Str. (Sackgasse, gegenüber Nr. 15)",
+                "stellplatz_nr": 153,
+                "ortsteil": 45,
+                "ortsteil_bezeichnung": "Südstadt",
+                "stellplaetze_gesamt": 16,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0947850195,
+                    50.7321355632
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Meckenheimer Allee 76",
+                "stellplatz_nr": 154,
+                "ortsteil": 51,
+                "ortsteil_bezeichnung": "Weststadt",
+                "stellplaetze_gesamt": 12,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.09626028,
+                    50.7393125684
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Breite Straße 68",
+                "stellplatz_nr": 155,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 2,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0970415891,
+                    50.7355830364
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Budapester Straße",
+                "stellplatz_nr": 156,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 24,
+                "stellplaetze_ueberdacht": 24,
+                "stellplaetze_box": null,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0966405377,
+                    50.7357622445
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Budapester Straße",
+                "stellplatz_nr": 157,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 8,
+                "stellplaetze_ueberdacht": null,
+                "stellplaetze_box": null,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0968207509,
+                    50.7357657267
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Sternstraße",
+                "stellplatz_nr": 158,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": null,
+                "stellplaetze_box": null,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0970693642,
+                    50.7357955967
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Sternstraße",
+                "stellplatz_nr": 159,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 10,
+                "stellplaetze_ueberdacht": 10,
+                "stellplaetze_box": null,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0973647929,
+                    50.7358320104
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Sterntraße",
+                "stellplatz_nr": 160,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 10,
+                "stellplaetze_ueberdacht": null,
+                "stellplaetze_box": null,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0978409819,
+                    50.735776459
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Friedensplatz",
+                "stellplatz_nr": 162,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": null,
+                "stellplaetze_box": null,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0983792444,
+                    50.7351242108
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Bottlerplatz",
+                "stellplatz_nr": 163,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 22,
+                "stellplaetze_ueberdacht": null,
+                "stellplaetze_box": null,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0979096963,
+                    50.734597275
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Bottlerplatz",
+                "stellplatz_nr": 164,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": null,
+                "stellplaetze_box": null,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0975699916,
+                    50.7346225835
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Bottlerplatz / Altes Stadthaus",
+                "stellplatz_nr": 165,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 24,
+                "stellplaetze_ueberdacht": null,
+                "stellplaetze_box": null,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0972492084,
+                    50.7349549502
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Budapester Straße / Altes Stadthaus",
+                "stellplatz_nr": 166,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": null,
+                "stellplaetze_box": null,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0957343435,
+                    50.7337485358
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Cassiusgraben (Ersatzstandort für Stellplätze im Baustellenbereich vor dem Bahnhof)",
+                "stellplatz_nr": 167,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": null,
+                "stellplaetze_ueberdacht": null,
+                "stellplaetze_box": null,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0997142829,
+                    50.732397838
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Wesselstraße  (Ersatzstandort für Stellplätze im Baustellenbereich vor dem Bahnhof)",
+                "stellplatz_nr": 168,
+                "ortsteil": null,
+                "ortsteil_bezeichnung": null,
+                "stellplaetze_gesamt": null,
+                "stellplaetze_ueberdacht": null,
+                "stellplaetze_box": null,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0990264082,
+                    50.7315951575
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "vor Gleis1 Hbf. (Ersatzstandort für Stellplätze im Baustellenbereich vor dem Bahnhof)",
+                "stellplatz_nr": 169,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": null,
+                "stellplaetze_ueberdacht": null,
+                "stellplaetze_box": null,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0998705822,
+                    50.7321006727
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Maximilianstraße (Ersatzstandort für Stellplätze im Baustellenbereich vor dem Bahnhof)",
+                "stellplatz_nr": 170,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": null,
+                "stellplaetze_ueberdacht": null,
+                "stellplaetze_box": null,
+                "bestehend": 1,
+                "bestehend_bezeichnung": "bestehend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1023021452,
+                    50.7347267098
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Bischofsplatz",
+                "stellplatz_nr": 171,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 40,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0882337152,
+                    50.7212731182
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Poppelsdorfer Platz, Clemens-August-Platz",
+                "stellplatz_nr": 172,
+                "ortsteil": 38,
+                "ortsteil_bezeichnung": "Poppelsdorf",
+                "stellplaetze_gesamt": 8,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0882435451,
+                    50.721305039
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Clemens-August-Platz",
+                "stellplatz_nr": 173,
+                "ortsteil": null,
+                "ortsteil_bezeichnung": null,
+                "stellplaetze_gesamt": 8,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": null,
+                "bestehend_bezeichnung": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0881976166,
+                    50.7213184826
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Poppelsdorfer Platz, Clemens-August-Platz",
+                "stellplatz_nr": 174,
+                "ortsteil": 38,
+                "ortsteil_bezeichnung": "Poppelsdorf",
+                "stellplaetze_gesamt": 8,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1079379824,
+                    50.7161036892
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Eduard-Otto-Straße, Hausdorffstraße 88",
+                "stellplatz_nr": 175,
+                "ortsteil": 26,
+                "ortsteil_bezeichnung": "Kessenich",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1080115313,
+                    50.7160281685
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Eduard-Otto-Straße, Hausdorffstraße 90",
+                "stellplatz_nr": 176,
+                "ortsteil": 26,
+                "ortsteil_bezeichnung": "Kessenich",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1080193524,
+                    50.7159358356
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Eduard-Otto-Straße, Hausdorffstr. 90-92",
+                "stellplatz_nr": 177,
+                "ortsteil": 26,
+                "ortsteil_bezeichnung": "Kessenich",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1080998677,
+                    50.7154103181
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Eduard-Otto-Straße, Hausdorffstr. 102",
+                "stellplatz_nr": 178,
+                "ortsteil": 26,
+                "ortsteil_bezeichnung": "Kessenich",
+                "stellplaetze_gesamt": 10,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1080685615,
+                    50.7156626417
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Eduard-Otto-Straße, Hausdorffstrße 96-98",
+                "stellplatz_nr": 179,
+                "ortsteil": 26,
+                "ortsteil_bezeichnung": "Kessenich",
+                "stellplaetze_gesamt": 10,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1080408527,
+                    50.7157482949
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Eduard-Otto-Straße, Hausdorffstr. 96",
+                "stellplatz_nr": 180,
+                "ortsteil": 26,
+                "ortsteil_bezeichnung": "Kessenich",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1080262485,
+                    50.715867534
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Eduard-Otto-Straße, Hausdorffstr. 92",
+                "stellplatz_nr": 181,
+                "ortsteil": 26,
+                "ortsteil_bezeichnung": "Kessenich",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1087690524,
+                    50.7279719947
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Herz-Jesu Hof, Weberstr. 3",
+                "stellplatz_nr": 182,
+                "ortsteil": 45,
+                "ortsteil_bezeichnung": "Südstadt",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1060203023,
+                    50.7271472481
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Herz-Jesu Hof, Weberstraße 50",
+                "stellplatz_nr": 184,
+                "ortsteil": 45,
+                "ortsteil_bezeichnung": "Südstadt",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0942298133,
+                    50.7211036319
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Bennauerstr. 16",
+                "stellplatz_nr": 185,
+                "ortsteil": 38,
+                "ortsteil_bezeichnung": "Poppelsdorf",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0952248835,
+                    50.7207615748
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Bennauerstraße 29/31",
+                "stellplatz_nr": 186,
+                "ortsteil": 38,
+                "ortsteil_bezeichnung": "Poppelsdorf",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0908195648,
+                    50.7400693497
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Dorotheenstr, Adolfstr. 52",
+                "stellplatz_nr": 187,
+                "ortsteil": null,
+                "ortsteil_bezeichnung": null,
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0905174972,
+                    50.7399153277
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Dorotheenstr, Dorotheenstr 85",
+                "stellplatz_nr": 188,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0902984693,
+                    50.7392674158
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Vorgebirgsstr . 17",
+                "stellplatz_nr": 189,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0853835971,
+                    50.7397358822
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Vorgebirgsstr/Eifelstr.",
+                "stellplatz_nr": 190,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0854906849,
+                    50.740035878
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Vorgebirgsstr./Sachsenweg",
+                "stellplatz_nr": 191,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0871289074,
+                    50.7231963258
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Kekuléstraße 26",
+                "stellplatz_nr": 192,
+                "ortsteil": 38,
+                "ortsteil_bezeichnung": "Poppelsdorf",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0874298249,
+                    50.7230605061
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Kekuléstraße 20",
+                "stellplatz_nr": 193,
+                "ortsteil": 38,
+                "ortsteil_bezeichnung": "Poppelsdorf",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0952617444,
+                    50.7350291066
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Thomas-Mann-Str. 39",
+                "stellplatz_nr": 194,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1099148755,
+                    50.7128810504
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Rheinweg 156-158",
+                "stellplatz_nr": 195,
+                "ortsteil": 26,
+                "ortsteil_bezeichnung": "Kessenich",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.100780843,
+                    50.7332227234
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Martinsplatz",
+                "stellplatz_nr": 196,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0995549297,
+                    50.7424206192
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Rosental 17/19",
+                "stellplatz_nr": 197,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0989881322,
+                    50.7423654037
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Rosental 9",
+                "stellplatz_nr": 198,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0977764282,
+                    50.7421927265
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Rosental 8",
+                "stellplatz_nr": 199,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0989235162,
+                    50.7450521229
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Nordstraße 108",
+                "stellplatz_nr": 200,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0922024287,
+                    50.719544396
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Rehfuesstr/Hospitalweg",
+                "stellplatz_nr": 201,
+                "ortsteil": 38,
+                "ortsteil_bezeichnung": "Poppelsdorf",
+                "stellplaetze_gesamt": 12,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0940456866,
+                    50.7410202887
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Georgstr. 1",
+                "stellplatz_nr": 202,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0909140921,
+                    50.742507349
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Georgstr. 36",
+                "stellplatz_nr": 203,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 8,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0901682994,
+                    50.7428145735
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Georgstr. 40",
+                "stellplatz_nr": 204,
+                "ortsteil": 34,
+                "ortsteil_bezeichnung": "Nordstadt",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0900272581,
+                    50.7244950477
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Am Botanischen Garten, Meckenheimer Allee 176",
+                "stellplatz_nr": 205,
+                "ortsteil": 38,
+                "ortsteil_bezeichnung": "Poppelsdorf",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0892516976,
+                    50.7255822766
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Katzenburgweg 5",
+                "stellplatz_nr": 206,
+                "ortsteil": 38,
+                "ortsteil_bezeichnung": "Poppelsdorf",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1040669106,
+                    50.716622249
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Graf-Stauffenbergstr. 10",
+                "stellplatz_nr": 207,
+                "ortsteil": 26,
+                "ortsteil_bezeichnung": "Kessenich",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1538171951,
+                    50.7259065157
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Luisenstr. 34",
+                "stellplatz_nr": 208,
+                "ortsteil": 26,
+                "ortsteil_bezeichnung": "Kessenich",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1024461214,
+                    50.7354286563
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Markt 8",
+                "stellplatz_nr": 209,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 8,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1020281228,
+                    50.7352637298
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Markt 11/13",
+                "stellplatz_nr": 210,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 8,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1024681679,
+                    50.7354550495
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Markt 8",
+                "stellplatz_nr": 211,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 8,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0969974895,
+                    50.7218127298
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Troschelstraße/Luisenstraße",
+                "stellplatz_nr": 212,
+                "ortsteil": 38,
+                "ortsteil_bezeichnung": "Poppelsdorf",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0967964708,
+                    50.721705683
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Troschelstraße 1",
+                "stellplatz_nr": 213,
+                "ortsteil": 38,
+                "ortsteil_bezeichnung": "Poppelsdorf",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1009221243,
+                    50.7384258572
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Kölnstr. 9-11",
+                "stellplatz_nr": 214,
+                "ortsteil": 6,
+                "ortsteil_bezeichnung": "Bonn-Zentrum",
+                "stellplaetze_gesamt": 8,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1523104397,
+                    50.6860299358
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Friesdorferstr. 6",
+                "stellplatz_nr": 215,
+                "ortsteil": 1,
+                "ortsteil_bezeichnung": "Alt-Godesberg",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1254484123,
+                    50.6977047315
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Parkplatz Margaretenstr.",
+                "stellplatz_nr": 216,
+                "ortsteil": 1,
+                "ortsteil_bezeichnung": "Alt-Godesberg",
+                "stellplaetze_gesamt": 16,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1268318252,
+                    50.6977837574
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Klufterplatz",
+                "stellplatz_nr": 217,
+                "ortsteil": 1,
+                "ortsteil_bezeichnung": "Alt-Godesberg",
+                "stellplaetze_gesamt": 12,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.155851864,
+                    50.6844308809
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Alte Bahnhofstr. 12",
+                "stellplatz_nr": 218,
+                "ortsteil": 1,
+                "ortsteil_bezeichnung": "Alt-Godesberg",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1718477244,
+                    50.6804134985
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Friedhof Rüngsdorf/Konstantinstr",
+                "stellplatz_nr": 219,
+                "ortsteil": 42,
+                "ortsteil_bezeichnung": "Rüngsdorf",
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1531208752,
+                    50.6863745814
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Bonner Str. 9",
+                "stellplatz_nr": 220,
+                "ortsteil": 1,
+                "ortsteil_bezeichnung": "Alt-Godesberg",
+                "stellplaetze_gesamt": 10,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1528198981,
+                    50.6858051313
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Aennchenplatz 4",
+                "stellplatz_nr": 221,
+                "ortsteil": null,
+                "ortsteil_bezeichnung": null,
+                "stellplaetze_gesamt": 6,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.159583338,
+                    50.7055307277
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Martin-Luther-King Str. 14",
+                "stellplatz_nr": 222,
+                "ortsteil": null,
+                "ortsteil_bezeichnung": null,
+                "stellplaetze_gesamt": 84,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0490250247,
+                    50.7151548017
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Rochusstraße 187",
+                "stellplatz_nr": 223,
+                "ortsteil": 11,
+                "ortsteil_bezeichnung": "Duisdorf",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0478487365,
+                    50.7146719515
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Rochusstraße 224",
+                "stellplatz_nr": 224,
+                "ortsteil": 11,
+                "ortsteil_bezeichnung": "Duisdorf",
+                "stellplaetze_gesamt": 4,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0472765891,
+                    50.7144424387
+                ]
+            },
+            "properties": {
+                "lagebezeichnung": "Rochusstr. 230",
+                "stellplatz_nr": 225,
+                "ortsteil": 11,
+                "ortsteil_bezeichnung": "Duisdorf",
+                "stellplaetze_gesamt": 2,
+                "stellplaetze_ueberdacht": 0,
+                "stellplaetze_box": 0,
+                "bestehend": 2,
+                "bestehend_bezeichnung": "geplant"
+            }
+        }
+    ]
+}

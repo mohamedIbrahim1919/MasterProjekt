@@ -1,0 +1,275 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0941805772,
+                    50.7370046814
+                ]
+            },
+            "properties": {
+                "row_number": 1,
+                "point_id": 86253,
+                "name": "WC - Stadthaus",
+                "beschreibung": "(nur zugänglich, wenn Stadthaus geöffnet)",
+                "oeffentlich": 1,
+                "barrierefrei": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.101659394,
+                    50.7345519598
+                ]
+            },
+            "properties": {
+                "row_number": 2,
+                "point_id": 86256,
+                "name": "WC - Kiosk, Remigiusplatz",
+                "beschreibung": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1079350678,
+                    50.7356375933
+                ]
+            },
+            "properties": {
+                "row_number": 3,
+                "point_id": 86258,
+                "name": "WC - Kiosk am Anleger KD, Brassertufer",
+                "beschreibung": "(nur zugänglich, wenn Kiosk geöffnet)",
+                "oeffentlich": 1,
+                "barrierefrei": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1022450887,
+                    50.7376269721
+                ]
+            },
+            "properties": {
+                "row_number": 4,
+                "point_id": 86260,
+                "name": "Behinderten WC - nördl. Seite, Bertha-von-Suttner-Platz",
+                "beschreibung": "(nördl. Seite, mit Münzeinwurf)",
+                "oeffentlich": 1,
+                "barrierefrei": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1544204045,
+                    50.6830603495
+                ]
+            },
+            "properties": {
+                "row_number": 5,
+                "point_id": 86265,
+                "name": "Behinderten WC - Pavillon am Theater, Am Kurpark",
+                "beschreibung": null,
+                "oeffentlich": 1,
+                "barrierefrei": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1713022056,
+                    50.6905405212
+                ]
+            },
+            "properties": {
+                "row_number": 6,
+                "point_id": 86267,
+                "name": "WC - Bastei, Von-Sandt-Ufer",
+                "beschreibung": "(nur zugänglich, wenn Kiosk geöffnet)",
+                "oeffentlich": 1,
+                "barrierefrei": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1406084768,
+                    50.7107678716
+                ]
+            },
+            "properties": {
+                "row_number": 7,
+                "point_id": 86270,
+                "name": "Behinderten WC - Rheinauen-Pavillon, Ludwig-Erhard-Allee",
+                "beschreibung": "(privater Pächter)",
+                "oeffentlich": 1,
+                "barrierefrei": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1460222831,
+                    50.7071459637
+                ]
+            },
+            "properties": {
+                "row_number": 8,
+                "point_id": 86271,
+                "name": "WC - Postpavillon im Rheinauenpark, Ludwig-Erhard-Allee",
+                "beschreibung": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1243761673,
+                    50.7260824561
+                ]
+            },
+            "properties": {
+                "row_number": 9,
+                "point_id": 86273,
+                "name": "WC - Bonner Rudergesellschaft, Elsa-Brändström-Straße",
+                "beschreibung": "(nur zugänglich, wenn BRG geöffnet )",
+                "oeffentlich": 1,
+                "barrierefrei": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1436746737,
+                    50.7217863546
+                ]
+            },
+            "properties": {
+                "row_number": 10,
+                "point_id": 86274,
+                "name": "Behinderten WC - Skatepark, Landgrabenweg",
+                "beschreibung": null,
+                "oeffentlich": 1,
+                "barrierefrei": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0467149944,
+                    50.7135252794
+                ]
+            },
+            "properties": {
+                "row_number": 11,
+                "point_id": 86275,
+                "name": "Behinderten WC - Kirche, Weierbornstraße",
+                "beschreibung": null,
+                "oeffentlich": 1,
+                "barrierefrei": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0426958029,
+                    50.7164765514
+                ]
+            },
+            "properties": {
+                "row_number": 12,
+                "point_id": 86276,
+                "name": "Behinderten WC - Nahverkehrsbahnhof, Ladestraße",
+                "beschreibung": null,
+                "oeffentlich": 1,
+                "barrierefrei": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.155108464,
+                    50.6860034593
+                ]
+            },
+            "properties": {
+                "row_number": 13,
+                "point_id": 662173,
+                "name": "Behinderten WC - Moltkeplatz",
+                "beschreibung": null,
+                "oeffentlich": 1,
+                "barrierefrei": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0992488349,
+                    50.7345294223
+                ]
+            },
+            "properties": {
+                "row_number": 14,
+                "point_id": 666123,
+                "name": "Behinderten WC - Restaurant MIDI",
+                "beschreibung": "(privater Pächter)",
+                "oeffentlich": 1,
+                "barrierefrei": 1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1081959055,
+                    50.7344102228
+                ]
+            },
+            "properties": {
+                "row_number": 15,
+                "point_id": 744235,
+                "name": "WC - Alter Zoll, Biergarten/Musikpavillion",
+                "beschreibung": "(nur zugänglich, wenn Biergarten geöffnet)",
+                "oeffentlich": 1,
+                "barrierefrei": 0
+            }
+        }
+    ]
+}

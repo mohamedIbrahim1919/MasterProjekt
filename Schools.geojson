@@ -1,0 +1,3477 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0915096212,
+                    50.7391517405
+                ]
+            },
+            "properties": {
+                "schule_id": 2,
+                "standort_id": 4,
+                "name": "Grundschulverbund Marienschule-Nordschule",
+                "schule_bezeichnung": "Katholische Grundschule der Stadt Bonn",
+                "schule_schulart": "Kath. Bekenntnisschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": "Marienschule",
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Heerstraße",
+                "hausnr": "92-94",
+                "plz": 53111,
+                "ort": "Bonn",
+                "ortsteil": "Nordstadt",
+                "standort_buerozeiten": "Mo., Di., Do. 07.45-11.45",
+                "sekretariat_tel": "+49 228 77-7510",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_2",
+                "homepage": "https://www.grundschulverbund-marienschule-nordschule.de/",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0967634471,
+                    50.746072318
+                ]
+            },
+            "properties": {
+                "schule_id": 2,
+                "standort_id": 5,
+                "name": "Grundschulverbund Marienschule-Nordschule",
+                "schule_bezeichnung": "Katholische Grundschule der Stadt Bonn",
+                "schule_schulart": "Kath. Bekenntnisschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": "Nordschule",
+                "standort_standortart": "Nebenstandort",
+                "strasse": "Graurheindorfer Straße",
+                "hausnr": "78",
+                "plz": 53111,
+                "ort": "Bonn",
+                "ortsteil": "Bonn-Castell",
+                "standort_buerozeiten": "Mi. 07.45-11.45",
+                "sekretariat_tel": "+49 228 77-7690",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_2",
+                "homepage": "http://www.grundschulverbund-bonn.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0882928245,
+                    50.7434712997
+                ]
+            },
+            "properties": {
+                "schule_id": 4,
+                "standort_id": 7,
+                "name": "Robert-Wetzlar-Berufskolleg",
+                "schule_bezeichnung": "Hauswirtschaftliche, sozialpädagogische, gewerbliche Schulen der Stadt Bonn\r\nUnesco-Projekt-Schule",
+                "schule_schulart": null,
+                "schule_schulform": "Berufskolleg",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Kölnstraße",
+                "hausnr": "229",
+                "plz": 53117,
+                "ort": "Bonn",
+                "ortsteil": "Nordstadt",
+                "standort_buerozeiten": "Mo.-Do. 07.30-16.00, Fr. 07.30-14.30",
+                "sekretariat_tel": "+49 228 77-7064",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_4",
+                "homepage": "http://www.rwb-bonn.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.127480294,
+                    50.7539099508
+                ]
+            },
+            "properties": {
+                "schule_id": 5,
+                "standort_id": 8,
+                "name": "Adelheidisschule",
+                "schule_bezeichnung": "Städtische Gemeinschaftsgrundschule",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Käsbergstraße",
+                "hausnr": "1",
+                "plz": 53225,
+                "ort": "Bonn",
+                "ortsteil": "Vilich",
+                "standort_buerozeiten": "Di. und Do. 08.00-12.00",
+                "sekretariat_tel": "+49 228 77-87010",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_5",
+                "homepage": "https://adelheidis.de/",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1853085146,
+                    50.6604377822
+                ]
+            },
+            "properties": {
+                "schule_id": 6,
+                "standort_id": 9,
+                "name": "Katholische Grundschule Am Domhof",
+                "schule_bezeichnung": "Grundschule der Stadt Bonn\r\n- Primarstufe -",
+                "schule_schulart": "Kath. Bekenntnisschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Friedrich-Bleek-Straße",
+                "hausnr": "2",
+                "plz": 53179,
+                "ort": "Bonn",
+                "ortsteil": "Mehlem",
+                "standort_buerozeiten": "Di. 08.00-12.00; Mi. und Fr. 08.00-12.00",
+                "sekretariat_tel": "+49 228 77-7970",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_6",
+                "homepage": "http://www.kgs-am-domhof.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1723768563,
+                    50.6774502431
+                ]
+            },
+            "properties": {
+                "schule_id": 7,
+                "standort_id": 10,
+                "name": "Andreasschule",
+                "schule_bezeichnung": "Städtische Gemeinschaftsgrundschule",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Mendelssohnstraße",
+                "hausnr": "18",
+                "plz": 53179,
+                "ort": "Bonn",
+                "ortsteil": "Rüngsdorf",
+                "standort_buerozeiten": "Di. und Do. 08.00-14.00",
+                "sekretariat_tel": "+49 228 77-86990",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_7",
+                "homepage": "http://www.andreasschule.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1176385829,
+                    50.7482666823
+                ]
+            },
+            "properties": {
+                "schule_id": 8,
+                "standort_id": 11,
+                "name": "Arnold-von-Wied-Schule",
+                "schule_bezeichnung": "Städtische Gemeinschaftsgrundschule Beuel",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Vilicher Straße",
+                "hausnr": "2",
+                "plz": 53225,
+                "ort": "Bonn",
+                "ortsteil": "Schwarzrheindorf / Vilich-Rheindorf",
+                "standort_buerozeiten": "Di. und Do. 07.30-13.30 Uhr",
+                "sekretariat_tel": "+49 228 77-87980",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_8",
+                "homepage": "https://www.grundschule-arnold-von-wied.de/",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1595079856,
+                    50.6904362657
+                ]
+            },
+            "properties": {
+                "schule_id": 9,
+                "standort_id": 12,
+                "name": "Beethovenschule",
+                "schule_bezeichnung": "Städtische katholische Grundschule",
+                "schule_schulart": "Kath. Bekenntnisschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Beethovenallee",
+                "hausnr": "73",
+                "plz": 53173,
+                "ort": "Bonn",
+                "ortsteil": "Godesberg-Villenviertel",
+                "standort_buerozeiten": "Di. 07.30-13.30, Do. 07.30-13.00",
+                "sekretariat_tel": "+49 228 77-7950",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_9",
+                "homepage": "http://www.beethovenschulebonn.de/",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0746575096,
+                    50.7591208152
+                ]
+            },
+            "properties": {
+                "schule_id": 10,
+                "standort_id": 13,
+                "name": "Bernhardschule",
+                "schule_bezeichnung": "Städtische katholische Grundschule Bonn-Auerberg",
+                "schule_schulart": "Kath. Bekenntnisschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Kopenhagener Straße",
+                "hausnr": "14-16",
+                "plz": 53117,
+                "ort": "Bonn",
+                "ortsteil": "Auerberg",
+                "standort_buerozeiten": "Mo., Mi.-Fr. 08.00-12.00",
+                "sekretariat_tel": "+49 228 77-7830",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_10",
+                "homepage": "https://www.bernhardschule-bonn.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1291731765,
+                    50.6945358402
+                ]
+            },
+            "properties": {
+                "schule_id": 11,
+                "standort_id": 14,
+                "name": "Bodelschwinghschule",
+                "schule_bezeichnung": "Städtische evangelische Grundschule",
+                "schule_schulart": "Ev. Bekenntnisschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Am Woltersweiher",
+                "hausnr": "10",
+                "plz": 53175,
+                "ort": "Bonn",
+                "ortsteil": "Friesdorf",
+                "standort_buerozeiten": "Mo. und Do. 08.00-13.00",
+                "sekretariat_tel": "+49 228 77-7880",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_11",
+                "homepage": "http://www.bodelschwinghschule-bonn.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0546724415,
+                    50.6962173488
+                ]
+            },
+            "properties": {
+                "schule_id": 12,
+                "standort_id": 15,
+                "name": "Schule Brüser Berg",
+                "schule_bezeichnung": "Gemeinschaftsgrundschule der Stadt Bonn",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Edisonallee",
+                "hausnr": "9",
+                "plz": 53125,
+                "ort": "Bonn",
+                "ortsteil": "Brüser Berg",
+                "standort_buerozeiten": "Di. und Do. 08.00-12.30",
+                "sekretariat_tel": "+49 228 254586",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_12",
+                "homepage": "http://www.grundschule-brueser-berg.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1467570976,
+                    50.6834227652
+                ]
+            },
+            "properties": {
+                "schule_id": 13,
+                "standort_id": 16,
+                "name": "Burgschule",
+                "schule_bezeichnung": "Städtische katholische Grundschule",
+                "schule_schulart": "Kath. Bekenntnisschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Winterstraße",
+                "hausnr": "53",
+                "plz": 53177,
+                "ort": "Bonn",
+                "ortsteil": "Schweinheim",
+                "standort_buerozeiten": "Di. und Do. 07.30-12.30",
+                "sekretariat_tel": "+49 228 77-7910",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_13",
+                "homepage": "http://www.burgschule-bonn.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0492451953,
+                    50.7612501799
+                ]
+            },
+            "properties": {
+                "schule_id": 14,
+                "standort_id": 17,
+                "name": "Städtische katholische Grundschule Buschdorf",
+                "schule_bezeichnung": "",
+                "schule_schulart": "Kath. Bekenntnisschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Von-den-Driesch-Straße",
+                "hausnr": "2",
+                "plz": 53117,
+                "ort": "Bonn",
+                "ortsteil": "Buschdorf",
+                "standort_buerozeiten": "Di. und Do. 07.30-11.30",
+                "sekretariat_tel": "+49 228 674312",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_14",
+                "homepage": "http://grundschulebuschdorf.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0405807824,
+                    50.7504988992
+                ]
+            },
+            "properties": {
+                "schule_id": 15,
+                "standort_id": 18,
+                "name": "Carl-Schurz-Schule",
+                "schule_bezeichnung": "Städtische Gemeinschaftsgrundschule",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Hirschberger Straße",
+                "hausnr": "1",
+                "plz": 53119,
+                "ort": "Bonn",
+                "ortsteil": "Tannenbusch",
+                "standort_buerozeiten": "Mo.-Fr. 08.25-12.00 und 12.30-15.00",
+                "sekretariat_tel": "+49 228 77-7120",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_15",
+                "homepage": "http://www.ggs-carl-schurz.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0617105938,
+                    50.7419498484
+                ]
+            },
+            "properties": {
+                "schule_id": 16,
+                "standort_id": 19,
+                "name": "Paulusschule",
+                "schule_bezeichnung": "Städtische katholische Grundschule",
+                "schule_schulart": "Kath. Bekenntnisschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Hohe Straße",
+                "hausnr": "11",
+                "plz": 53119,
+                "ort": "Bonn",
+                "ortsteil": "Tannenbusch",
+                "standort_buerozeiten": "Di. und Do. 08.00-11.30",
+                "sekretariat_tel": "+49 228 77-7820",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_16",
+                "homepage": "https://paulusschule-bonn.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0902466576,
+                    50.7215774096
+                ]
+            },
+            "properties": {
+                "schule_id": 17,
+                "standort_id": 21,
+                "name": "Clemens-August-Schule",
+                "schule_bezeichnung": "Städtische katholische Grundschule",
+                "schule_schulart": "Kath. Bekenntnisschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Sternenburgstraße",
+                "hausnr": "23",
+                "plz": 53115,
+                "ort": "Bonn",
+                "ortsteil": "Poppelsdorf",
+                "standort_buerozeiten": "Mo. 07.00-12.00; Mi. 07.00-11.30",
+                "sekretariat_tel": "+49 228 77-3620",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_17",
+                "homepage": "http://www.clemens-august-schule-bonn.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1603539794,
+                    50.6987928194
+                ]
+            },
+            "properties": {
+                "schule_id": 18,
+                "standort_id": 22,
+                "name": "Donatusschule",
+                "schule_bezeichnung": "Katholische Grundschule der Stadt Bonn",
+                "schule_schulart": "Kath. Bekenntnisschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Donatusstraße",
+                "hausnr": "12",
+                "plz": 53175,
+                "ort": "Bonn",
+                "ortsteil": "Plittersdorf",
+                "standort_buerozeiten": "Di. u. Do. 08.15-12.15",
+                "sekretariat_tel": "+49 228 77-7923",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_18",
+                "homepage": "https://www.kgsdonatusschule.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1886014561,
+                    50.6589448694
+                ]
+            },
+            "properties": {
+                "schule_id": 19,
+                "standort_id": 23,
+                "name": "École Française de Gaulle-Adenauer",
+                "schule_bezeichnung": "Staatlich anerkannte Grundschule des Deutsch-Französischen Schulvereins e.V.",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Deutsch-Französischer Schulverein e.V., Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Meckenheimer Straße",
+                "hausnr": "45",
+                "plz": 53179,
+                "ort": "Bonn",
+                "ortsteil": "Mehlem",
+                "standort_buerozeiten": "Mo.-Fr. 08.00-10.00",
+                "sekretariat_tel": "+49 228 9538031",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_19",
+                "homepage": "http://www.ecole-bonn.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0617105938,
+                    50.7419498484
+                ]
+            },
+            "properties": {
+                "schule_id": 20,
+                "standort_id": 24,
+                "name": "Elsa-Brändström-Schule",
+                "schule_bezeichnung": "Städtische evangelische Grundschule",
+                "schule_schulart": "Ev. Bekenntnisschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Hohe Straße",
+                "hausnr": "11",
+                "plz": 53119,
+                "ort": "Bonn",
+                "ortsteil": "Tannenbusch",
+                "standort_buerozeiten": "Mi. 08.00-13.00; Fr. 08.00-12.30",
+                "sekretariat_tel": "+49 228 77-7829",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_20",
+                "homepage": "http://www.ebs-bonn.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.088367808,
+                    50.6961037206
+                ]
+            },
+            "properties": {
+                "schule_id": 21,
+                "standort_id": 25,
+                "name": "Engelsbachschule",
+                "schule_bezeichnung": "Katholische Grundschule der Stadt Bonn",
+                "schule_schulart": "Kath. Bekenntnisschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Saalestraße",
+                "hausnr": "27",
+                "plz": 53127,
+                "ort": "Bonn",
+                "ortsteil": "Ippendorf",
+                "standort_buerozeiten": "Di. und Do. 08.30-12.30",
+                "sekretariat_tel": "+49 228 283695",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_21",
+                "homepage": "https://www.engelsbachschule.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1495978966,
+                    50.7304800257
+                ]
+            },
+            "properties": {
+                "schule_id": 22,
+                "standort_id": 26,
+                "name": "Ennertschule",
+                "schule_bezeichnung": "Städtische Gemeinschaftsgrundschule Beuel-Küdinghoven",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Kirchstraße",
+                "hausnr": "56-58",
+                "plz": 53227,
+                "ort": "Bonn",
+                "ortsteil": "Küdinghoven",
+                "standort_buerozeiten": "Mo. 08.00-12.30; Do. 08.00-12.00",
+                "sekretariat_tel": "+49 228 77-86980",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_22",
+                "homepage": "http://ggsennertschule.de/",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1152711696,
+                    50.7100557057
+                ]
+            },
+            "properties": {
+                "schule_id": 23,
+                "standort_id": 27,
+                "name": "Erich-Kästner-Schule",
+                "schule_bezeichnung": "Städtische Gemeinschaftsgrundschule",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Karl-Barth-Straße",
+                "hausnr": "87",
+                "plz": 53129,
+                "ort": "Bonn",
+                "ortsteil": "Kessenich",
+                "standort_buerozeiten": "Mo. und Do. 07.00-12.00",
+                "sekretariat_tel": "+49 228 77-5116",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_23",
+                "homepage": "http://www.eks-bonn.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0516558099,
+                    50.7067827025
+                ]
+            },
+            "properties": {
+                "schule_id": 24,
+                "standort_id": 28,
+                "name": "Finkenhofschule",
+                "schule_bezeichnung": "Städtische Gemeinschaftsgrundschule Duisdorf",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Ossietzkystraße",
+                "hausnr": "34",
+                "plz": 53123,
+                "ort": "Bonn",
+                "ortsteil": "Duisdorf",
+                "standort_buerozeiten": "Di. 08.00-12.00 und Do. 08.00-11.30",
+                "sekretariat_tel": "+49 228 77-7840",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_24",
+                "homepage": "https://finkenhofschule.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1557416075,
+                    50.6967458613
+                ]
+            },
+            "properties": {
+                "schule_id": 25,
+                "standort_id": 29,
+                "name": "Gotenschule",
+                "schule_bezeichnung": "Gemeinschaftsgrundschule der Stadt Bonn",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Neckarstraße",
+                "hausnr": "39",
+                "plz": 53175,
+                "ort": "Bonn",
+                "ortsteil": "Plittersdorf",
+                "standort_buerozeiten": "Mo., Mi. und Fr. 07.30-12.00",
+                "sekretariat_tel": "+49 228 77-7580",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_25",
+                "homepage": "http://www.gotenschule.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1642598457,
+                    50.7119304857
+                ]
+            },
+            "properties": {
+                "schule_id": 26,
+                "standort_id": 30,
+                "name": "Gottfried-Kinkel-Schule",
+                "schule_bezeichnung": "Städtische Gemeinschaftsgrundschule Oberkassel",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Kastellstraße",
+                "hausnr": "31",
+                "plz": 53227,
+                "ort": "Bonn",
+                "ortsteil": "Oberkassel",
+                "standort_buerozeiten": "Mo., Mi., Fr. 08.30-13.00",
+                "sekretariat_tel": "+49 228 77-7930",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_26",
+                "homepage": "https://www.gottfried-kinkel-grundschule.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1512807569,
+                    50.6619176918
+                ]
+            },
+            "properties": {
+                "schule_id": 27,
+                "standort_id": 31,
+                "name": "Städtische Gemeinschaftsgrundschule Heiderhof",
+                "schule_bezeichnung": "",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Weißdornweg",
+                "hausnr": "139",
+                "plz": 53177,
+                "ort": "Bonn",
+                "ortsteil": "Heiderhof",
+                "standort_buerozeiten": "Mo. 08.00-12.00; Do. 08.00-12.00",
+                "sekretariat_tel": "+49 228 321186",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_27",
+                "homepage": "http://www.ggs-heiderhof.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1798625979,
+                    50.7420350587
+                ]
+            },
+            "properties": {
+                "schule_id": 28,
+                "standort_id": 32,
+                "name": "Städtische katholische Grundschule Holzlar",
+                "schule_bezeichnung": "",
+                "schule_schulart": "Kath. Bekenntnisschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Hauptstraße",
+                "hausnr": "105",
+                "plz": 53229,
+                "ort": "Bonn",
+                "ortsteil": "Holzlar",
+                "standort_buerozeiten": "Mi. und Fr. 08.00-12.00",
+                "sekretariat_tel": "+49 228 77-87920",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_28",
+                "homepage": "http://www.kgs-holzlar.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1786423021,
+                    50.7440211473
+                ]
+            },
+            "properties": {
+                "schule_id": 28,
+                "standort_id": 33,
+                "name": "Städtische katholische Grundschule Holzlar",
+                "schule_bezeichnung": "",
+                "schule_schulart": "Kath. Bekenntnisschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": "Übermittagsbetreuung und OGS",
+                "standort_standortart": "Dependance",
+                "strasse": "Heideweg",
+                "hausnr": "3-5",
+                "plz": 53229,
+                "ort": "Bonn",
+                "ortsteil": "Holzlar",
+                "standort_buerozeiten": null,
+                "sekretariat_tel": null,
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_28",
+                "homepage": null,
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1528751594,
+                    50.6607799557
+                ]
+            },
+            "properties": {
+                "schule_id": 29,
+                "standort_id": 34,
+                "name": "Independent Bonn International School",
+                "schule_bezeichnung": "Staatlich anerkannte Ersatzschule der Primarstufe",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Independent Bonn International School e.V., Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Tulpenbaumweg",
+                "hausnr": "42",
+                "plz": 53177,
+                "ort": "Bonn",
+                "ortsteil": "Heiderhof",
+                "standort_buerozeiten": "Mo.-Do. 08.00-17.00, Fr 08.15 - 16.00",
+                "sekretariat_tel": "+49 228 323166",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_29",
+                "homepage": "http://www.ibis-school.com",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0846146956,
+                    50.7560909995
+                ]
+            },
+            "properties": {
+                "schule_id": 30,
+                "standort_id": 35,
+                "name": "Jahnschule",
+                "schule_bezeichnung": "Städtische Gemeinschaftsgrundschule",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Herseler Straße",
+                "hausnr": "7",
+                "plz": 53117,
+                "ort": "Bonn",
+                "ortsteil": "Graurheindorf",
+                "standort_buerozeiten": "Di. 08.15-13.31; Do. 08.15-14.15; Fr. 08.15-12.15",
+                "sekretariat_tel": "+49 228 77-7030",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_30",
+                "homepage": "http://www.jahnschule-bonn.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1155975087,
+                    50.737811323
+                ]
+            },
+            "properties": {
+                "schule_id": 31,
+                "standort_id": 36,
+                "name": "Josefschule",
+                "schule_bezeichnung": "Städtische katholische Grundschule Beuel",
+                "schule_schulart": "Kath. Bekenntnisschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Agnesstraße",
+                "hausnr": "1",
+                "plz": 53225,
+                "ort": "Bonn",
+                "ortsteil": "Beuel-Mitte",
+                "standort_buerozeiten": "Mo. und Mi. 07.30-12.30 UhrFr. 07:30-11.30 Uhr",
+                "sekretariat_tel": "+49 228 94673-0",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_31",
+                "homepage": "http://www.josefschule-bonn.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0874811878,
+                    50.7414013894
+                ]
+            },
+            "properties": {
+                "schule_id": 32,
+                "standort_id": 37,
+                "name": "Karlschule",
+                "schule_bezeichnung": "Gemeinschaftsgrundschule der Stadt Bonn",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Dorotheenstraße",
+                "hausnr": "126",
+                "plz": 53111,
+                "ort": "Bonn",
+                "ortsteil": "Nordstadt",
+                "standort_buerozeiten": "Mo. und Mi. 08.15-13.15",
+                "sekretariat_tel": "+49 228 77-7395",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_32",
+                "homepage": "http://www.karlschule-bonn.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0487513097,
+                    50.7363442304
+                ]
+            },
+            "properties": {
+                "schule_id": 33,
+                "standort_id": 38,
+                "name": "Kettelerschule",
+                "schule_bezeichnung": "Gemeinschaftsgrundschule der Stadt Bonn\n- Primarstufe -",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Siemensstraße",
+                "hausnr": "248",
+                "plz": 53121,
+                "ort": "Bonn",
+                "ortsteil": "Dransdorf",
+                "standort_buerozeiten": "Mo.-Fr. 09.00-14.00",
+                "sekretariat_tel": "+49 228 77-2213",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_33",
+                "homepage": "http://www.kettelerschule-bonn.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0742054558,
+                    50.7110232798
+                ]
+            },
+            "properties": {
+                "schule_id": 34,
+                "standort_id": 39,
+                "name": "Kreuzbergschule",
+                "schule_bezeichnung": "Städtische Gemeinschaftsgrundschule Lengsdorf",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Schulstraße",
+                "hausnr": "29",
+                "plz": 53127,
+                "ort": "Bonn",
+                "ortsteil": "Lengsdorf",
+                "standort_buerozeiten": "Mo. und Mi. 08.00-12.00",
+                "sekretariat_tel": "+49 228 77-60990",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_34",
+                "homepage": "https://kreuzbergschule-bonn.de/",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0394611989,
+                    50.7228551609
+                ]
+            },
+            "properties": {
+                "schule_id": 35,
+                "standort_id": 40,
+                "name": "Laurentiusschule",
+                "schule_bezeichnung": "Städtische katholische Grundschule Lessenich",
+                "schule_schulart": "Kath. Bekenntnisschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Meßdorfer Straße",
+                "hausnr": "340",
+                "plz": 53123,
+                "ort": "Bonn",
+                "ortsteil": "Lessenich/Meßdorf",
+                "standort_buerozeiten": "Mo. und Mi. 08.00-12.00",
+                "sekretariat_tel": "+49 228 77-7851",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_35",
+                "homepage": "http://www.laurentiusschule-bonn.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0604788303,
+                    50.716586922
+                ]
+            },
+            "properties": {
+                "schule_id": 36,
+                "standort_id": 41,
+                "name": "Ludwig-Richter-Schule",
+                "schule_bezeichnung": "Städtische Gemeinschaftsgrundschule Duisdorf",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Ludwig-Richter-Straße",
+                "hausnr": "29",
+                "plz": 53123,
+                "ort": "Bonn",
+                "ortsteil": "Duisdorf",
+                "standort_buerozeiten": "Di. und Fr. 08.00-12.00",
+                "sekretariat_tel": "+49 228 77-7980",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_36",
+                "homepage": "http://www.ludwig-richter-schule.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1698096393,
+                    50.6648472128
+                ]
+            },
+            "properties": {
+                "schule_id": 37,
+                "standort_id": 42,
+                "name": "Lyngsbergschule",
+                "schule_bezeichnung": "Katholische Grundschule der Stadt Bonn",
+                "schule_schulart": "Kath. Bekenntnisschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Lindstraße",
+                "hausnr": "14",
+                "plz": 53177,
+                "ort": "Bonn",
+                "ortsteil": "Lannesdorf",
+                "standort_buerozeiten": "Mo. 07.30-12.00; Do. 08.30-12.30",
+                "sekretariat_tel": "+49 228 77-7951",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_37",
+                "homepage": "http://www.lyngsbergschule.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1543723034,
+                    50.7451226514
+                ]
+            },
+            "properties": {
+                "schule_id": 38,
+                "standort_id": 43,
+                "name": "Marktschule",
+                "schule_bezeichnung": "Städtische Gemeinschaftsgrundschule Beuel",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Marktstraße",
+                "hausnr": "47",
+                "plz": 53229,
+                "ort": "Bonn",
+                "ortsteil": "Pützchen/Bechlinghoven",
+                "standort_buerozeiten": "Di., Mi. und Do. 07.30-11.30",
+                "sekretariat_tel": "+49 228 94862-0",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_38",
+                "homepage": "http://www.ggs-marktschule.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0736694855,
+                    50.726228032
+                ]
+            },
+            "properties": {
+                "schule_id": 39,
+                "standort_id": 44,
+                "name": "Matthias-Claudius-Schule",
+                "schule_bezeichnung": "Städtische Gemeinschaftsgrundschule",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Magdalenenstraße",
+                "hausnr": "6",
+                "plz": 53121,
+                "ort": "Bonn",
+                "ortsteil": "Endenich",
+                "standort_buerozeiten": "Di. und Do. 08.00-13.00",
+                "sekretariat_tel": "+49 228 77-7042",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_39",
+                "homepage": "http://www.matthias-claudius-schule-bonn.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0319827728,
+                    50.7096450588
+                ]
+            },
+            "properties": {
+                "schule_id": 40,
+                "standort_id": 45,
+                "name": "Städtische Gemeinschaftsgrundschule Medinghoven",
+                "schule_bezeichnung": "",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Stresemannstraße",
+                "hausnr": "26",
+                "plz": 53123,
+                "ort": "Bonn",
+                "ortsteil": "Duisdorf",
+                "standort_buerozeiten": "Di. und Fr. 08.00-11.30",
+                "sekretariat_tel": "+49 228 77-7860",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_40",
+                "homepage": "http://www.ggs-medinghoven.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0826223314,
+                    50.7307380832
+                ]
+            },
+            "properties": {
+                "schule_id": 41,
+                "standort_id": 46,
+                "name": "Michaelschule",
+                "schule_bezeichnung": "Städtische Gemeinschaftsgrundschule",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": "3. und 4. Schuljahr",
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Rheinbacher Straße",
+                "hausnr": "7",
+                "plz": 53115,
+                "ort": "Bonn",
+                "ortsteil": "Weststadt",
+                "standort_buerozeiten": "Mo. 08.30-13.00 und Mi. 08.30-12.30",
+                "sekretariat_tel": "+49 228 77-7218",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_41",
+                "homepage": "http://www.michaelschule-bonn.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0869942699,
+                    50.7314489326
+                ]
+            },
+            "properties": {
+                "schule_id": 41,
+                "standort_id": 47,
+                "name": "Michaelschule",
+                "schule_bezeichnung": "Städtische Gemeinschaftsgrundschule",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": "1. und 2. Schuljahr",
+                "standort_standortart": "Dependance",
+                "strasse": "Haydnstraße",
+                "hausnr": "11",
+                "plz": 53115,
+                "ort": "Bonn",
+                "ortsteil": "Weststadt",
+                "standort_buerozeiten": null,
+                "sekretariat_tel": null,
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_41",
+                "homepage": null,
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1126720862,
+                    50.7030164333
+                ]
+            },
+            "properties": {
+                "schule_id": 42,
+                "standort_id": 48,
+                "name": "Montessorischule",
+                "schule_bezeichnung": "Städtische Gemeinschaftsgrundschule",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Quirinstraße",
+                "hausnr": "16",
+                "plz": 53129,
+                "ort": "Bonn",
+                "ortsteil": "Dottendorf",
+                "standort_buerozeiten": "Di. 08.30-13.15; Do. 08.30-12.30",
+                "sekretariat_tel": "+49 228 77-7920",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_42",
+                "homepage": "http://www.montessori-bonn.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1060900488,
+                    50.7309451003
+                ]
+            },
+            "properties": {
+                "schule_id": 43,
+                "standort_id": 49,
+                "name": "Münsterschule",
+                "schule_bezeichnung": "Gemeinschaftsgrundschule der Stadt Bonn",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Maarflach",
+                "hausnr": "7-13",
+                "plz": 53113,
+                "ort": "Bonn",
+                "ortsteil": "Südstadt",
+                "standort_buerozeiten": "Mo. und Do. 08.00-12.00",
+                "sekretariat_tel": "+49 228 28970757",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_43",
+                "homepage": "http://www.muensterschule.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1070050214,
+                    50.7124934235
+                ]
+            },
+            "properties": {
+                "schule_id": 44,
+                "standort_id": 50,
+                "name": "Nikolausschule",
+                "schule_bezeichnung": "Städtische katholische Grundschule",
+                "schule_schulart": "Kath. Bekenntnisschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Pützstraße",
+                "hausnr": "6-8",
+                "plz": 53129,
+                "ort": "Bonn",
+                "ortsteil": "Kessenich",
+                "standort_buerozeiten": "Di. und Mi. 07.30-12.30, Fr. 07.20-11.30",
+                "sekretariat_tel": "+49 228 77-2245",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_44",
+                "homepage": "http://www.nikolausschule-bonn.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1974737808,
+                    50.7384021672
+                ]
+            },
+            "properties": {
+                "schule_id": 45,
+                "standort_id": 51,
+                "name": "Städtische Gemeinschaftsgrundschule Om Berg",
+                "schule_bezeichnung": "",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Pützhecke",
+                "hausnr": "10",
+                "plz": 53229,
+                "ort": "Bonn",
+                "ortsteil": "Hoholz",
+                "standort_buerozeiten": "Mo. und Do. 08.00-12.15",
+                "sekretariat_tel": "+49 228 77-87512",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_45",
+                "homepage": "http://www.ggs-om-berg.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1269674114,
+                    50.7372561142
+                ]
+            },
+            "properties": {
+                "schule_id": 46,
+                "standort_id": 52,
+                "name": "Paul-Gerhardt-Schule",
+                "schule_bezeichnung": "Städtische Gemeinschaftsgrundschule Beuel",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Neustraße",
+                "hausnr": "45",
+                "plz": 53225,
+                "ort": "Bonn",
+                "ortsteil": "Beuel-Mitte",
+                "standort_buerozeiten": "Mo., Mi. und Do. 08.00-12.00",
+                "sekretariat_tel": "+49 228 94672-0",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_46",
+                "homepage": "http://www.ggs-paul-gerhardt.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1628824951,
+                    50.6873155412
+                ]
+            },
+            "properties": {
+                "schule_id": 47,
+                "standort_id": 53,
+                "name": "Paul-Klee-Schule",
+                "schule_bezeichnung": "Gemeinschaftsgrundschule der Stadt Bonn",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Rheinallee",
+                "hausnr": "26",
+                "plz": 53173,
+                "ort": "Bonn",
+                "ortsteil": "Godesberg-Villenviertel",
+                "standort_buerozeiten": "Mo. und Mi. 07.45-12.15",
+                "sekretariat_tel": "+49 228 355097",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_47",
+                "homepage": "http://www.pks-bonn.de/",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1691405714,
+                    50.6735569104
+                ]
+            },
+            "properties": {
+                "schule_id": 48,
+                "standort_id": 54,
+                "name": "Robert-Koch-Schule",
+                "schule_bezeichnung": "Städtische Gemeinschaftsgrundschule",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Max-Planck-Straße",
+                "hausnr": "15",
+                "plz": 53177,
+                "ort": "Bonn",
+                "ortsteil": "Pennenfeld",
+                "standort_buerozeiten": "Di. und Do. 08.30-13.45",
+                "sekretariat_tel": "+49 228 77-7611",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_48",
+                "homepage": "http://www.robert-koch-schule-bonn.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0498627956,
+                    50.7149848906
+                ]
+            },
+            "properties": {
+                "schule_id": 49,
+                "standort_id": 55,
+                "name": "Rochusschule",
+                "schule_bezeichnung": "Städtische katholische Grundschule Duisdorf",
+                "schule_schulart": "Kath. Bekenntnisschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Rochusstraße",
+                "hausnr": "179",
+                "plz": 53123,
+                "ort": "Bonn",
+                "ortsteil": "Duisdorf",
+                "standort_buerozeiten": "Mo. und Mi. 08.00-12.30",
+                "sekretariat_tel": "+49 228 77-7455",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_49",
+                "homepage": "http://www.rochusschule.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0675262667,
+                    50.6827068933
+                ]
+            },
+            "properties": {
+                "schule_id": 50,
+                "standort_id": 56,
+                "name": "Schlossbachschule",
+                "schule_bezeichnung": "Städtische katholische Grundschule",
+                "schule_schulart": "Kath. Bekenntnisschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Herzogsfreudenweg",
+                "hausnr": "53",
+                "plz": 53125,
+                "ort": "Bonn",
+                "ortsteil": "Röttgen",
+                "standort_buerozeiten": "Di. und Do. 08.00-12.30",
+                "sekretariat_tel": "+49 228 77-87820",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_50",
+                "homepage": "http://www.schlossbachschule.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1248067317,
+                    50.696336819
+                ]
+            },
+            "properties": {
+                "schule_id": 51,
+                "standort_id": 57,
+                "name": "Servatiusschule",
+                "schule_bezeichnung": "Städtische katholische Grundschule",
+                "schule_schulart": "Kath. Bekenntnisschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Annaberger Straße",
+                "hausnr": "186",
+                "plz": 53175,
+                "ort": "Bonn",
+                "ortsteil": "Friesdorf",
+                "standort_buerozeiten": "Mo., Mi., Fr. 08.15-12.15",
+                "sekretariat_tel": "+49 228 310870",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_51",
+                "homepage": "https://www.servatiusschule.com",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1043891743,
+                    50.7398903601
+                ]
+            },
+            "properties": {
+                "schule_id": 52,
+                "standort_id": 58,
+                "name": "Stiftsschule",
+                "schule_bezeichnung": "Städtische Gemeinschaftsgrundschule",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Theaterstraße",
+                "hausnr": "60",
+                "plz": 53111,
+                "ort": "Bonn",
+                "ortsteil": "Bonn-Zentrum",
+                "standort_buerozeiten": "Mi. und Fr. 08.30-12.30",
+                "sekretariat_tel": "+49 228 77-3594",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_52",
+                "homepage": "http://www.stiftsschule-bonn.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0991449029,
+                    50.7212300881
+                ]
+            },
+            "properties": {
+                "schule_id": 53,
+                "standort_id": 59,
+                "name": "Till-Eulenspiegel-Schule",
+                "schule_bezeichnung": "Gemeinschaftsgrundschule der Stadt Bonn",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Renoisstraße",
+                "hausnr": "1a",
+                "plz": 53129,
+                "ort": "Bonn",
+                "ortsteil": "Kessenich",
+                "standort_buerozeiten": "Mo. und Mi. 08.00-12.00",
+                "sekretariat_tel": "+49 228 77-3606",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_53",
+                "homepage": "http://www.till-eulenspiegel-schule-bonn.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.099423037,
+                    50.6992398
+                ]
+            },
+            "properties": {
+                "schule_id": 54,
+                "standort_id": 60,
+                "name": "Waldschule",
+                "schule_bezeichnung": "Städtische Gemeinschaftsgrundschule",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Don-Bosco-Straße",
+                "hausnr": "1",
+                "plz": 53127,
+                "ort": "Bonn",
+                "ortsteil": "Venusberg",
+                "standort_buerozeiten": "Mo. und Mi. 08.30-12.30",
+                "sekretariat_tel": "+49 228 77-7535",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_54",
+                "homepage": "http://www.waldschule-bonn.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0537233258,
+                    50.7019429362
+                ]
+            },
+            "properties": {
+                "schule_id": 56,
+                "standort_id": 62,
+                "name": "August-Macke-Schule",
+                "schule_bezeichnung": "Gemeinschaftshauptschule der Stadt Bonn",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Hauptschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Gaußstraße",
+                "hausnr": "2",
+                "plz": 53125,
+                "ort": "Bonn",
+                "ortsteil": "Brüser Berg",
+                "standort_buerozeiten": "Mo., Mi., Do. 08.00-15.00; Di. 08.00-14.00; Fr. 08.00-13.00",
+                "sekretariat_tel": "+49 228 77-7340",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_56",
+                "homepage": "https://www.ams-bonn.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1683699647,
+                    50.6748258825
+                ]
+            },
+            "properties": {
+                "schule_id": 57,
+                "standort_id": 63,
+                "name": "Johannes-Rau-Schule",
+                "schule_bezeichnung": "Gemeinschaftshauptschule der Stadt Bonn",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Hauptschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Albertus-Magnus-Straße",
+                "hausnr": "21",
+                "plz": 53177,
+                "ort": "Bonn",
+                "ortsteil": "Pennenfeld",
+                "standort_buerozeiten": "Mo.-Do. 07.30-15.30; Fr. 07.30-14.00",
+                "sekretariat_tel": "+49 228 77-7590",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_57",
+                "homepage": "http://johannes-rau-schule.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0724910773,
+                    50.7246126499
+                ]
+            },
+            "properties": {
+                "schule_id": 58,
+                "standort_id": 64,
+                "name": "Karl-Simrock-Schule",
+                "schule_bezeichnung": "für Berufsorientierung\nGanztagshauptschule der Stadt Bonn",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Hauptschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Am Burggraben",
+                "hausnr": "20",
+                "plz": 53121,
+                "ort": "Bonn",
+                "ortsteil": "Endenich",
+                "standort_buerozeiten": "Mo.-Do. 07.15-15.45; Fr. 07.15-13.15",
+                "sekretariat_tel": "+49 228 77-7670",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_58",
+                "homepage": "http://www.karl-simrock-schule.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0774256443,
+                    50.7514793946
+                ]
+            },
+            "properties": {
+                "schule_id": 59,
+                "standort_id": 65,
+                "name": "St.-Hedwig-Schule",
+                "schule_bezeichnung": "Katholische Hauptschule der Stadt Bonn",
+                "schule_schulart": "Kath. Bekenntnisschule",
+                "schule_schulform": "Hauptschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "An der Josefshöhe",
+                "hausnr": "1",
+                "plz": 53117,
+                "ort": "Bonn",
+                "ortsteil": "Auerberg",
+                "standort_buerozeiten": "Mo.-Do. 07.30-13.00; Fr. 07.30-12.30",
+                "sekretariat_tel": "+49 228 77-7800",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_59",
+                "homepage": "http://www.hedwigschule-bonn.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0604788303,
+                    50.716586922
+                ]
+            },
+            "properties": {
+                "schule_id": 60,
+                "standort_id": 66,
+                "name": "Astrid-Lindgren-Schule",
+                "schule_bezeichnung": "Förderschule der Stadt Bonn\r\nFörderschwerpunkt Sprache",
+                "schule_schulart": null,
+                "schule_schulform": "Förderschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Ludwig-Richter-Straße",
+                "hausnr": "29",
+                "plz": 53123,
+                "ort": "Bonn",
+                "ortsteil": "Duisdorf",
+                "standort_buerozeiten": "Mo. und Fr. 07.45-13.45; Mi. 07.45-10.45",
+                "sekretariat_tel": "+49 228 77-7990",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_60",
+                "homepage": "http://www.sprachheilschule-bonn.de/",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.038073955,
+                    50.7131095507
+                ]
+            },
+            "properties": {
+                "schule_id": 61,
+                "standort_id": 67,
+                "name": "Derletalschule",
+                "schule_bezeichnung": "Förderschule der Stadt Bonn\r\nFörderschwerpunkt Emotionale und soziale Entwicklung",
+                "schule_schulart": null,
+                "schule_schulform": "Förderschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "René-Schickele-Straße",
+                "hausnr": "12",
+                "plz": 53123,
+                "ort": "Bonn",
+                "ortsteil": "Duisdorf",
+                "standort_buerozeiten": "Mo.-Fr. 08.00-11.50",
+                "sekretariat_tel": "+49 228 643435",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_61",
+                "homepage": "https://www.derletalschule.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0918419408,
+                    50.7195973174
+                ]
+            },
+            "properties": {
+                "schule_id": 62,
+                "standort_id": 68,
+                "name": "Johannes-Schule",
+                "schule_bezeichnung": "Freie Waldorfschule - Förderschule\r\nFörderschwerpunkte Emotionale und soziale Entwicklung, Geistige Entwicklung, Lernen, Sprache",
+                "schule_schulart": null,
+                "schule_schulform": "Waldorfschule",
+                "schule_schultraeger": "Johannes-Schule Bonn e.V., Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Rehfuesstraße",
+                "hausnr": "38",
+                "plz": 53115,
+                "ort": "Bonn",
+                "ortsteil": "Poppelsdorf",
+                "standort_buerozeiten": "Mo.-Fr. 08.00-12.00",
+                "sekretariat_tel": "+49 228 91434-0",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_62",
+                "homepage": "https://js-bn.de/",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0323932335,
+                    50.7133987765
+                ]
+            },
+            "properties": {
+                "schule_id": 63,
+                "standort_id": 69,
+                "name": "Königin-Juliana-Schule",
+                "schule_bezeichnung": "Förderschule der Stadt Bonn\r\nFörderschwerpunkt Geistige Entwicklung",
+                "schule_schulart": null,
+                "schule_schulform": "Förderschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": "Duisdorf",
+                "standort_standortart": "Hauptstandort",
+                "strasse": "An der Burg Medinghoven",
+                "hausnr": "12",
+                "plz": 53123,
+                "ort": "Bonn",
+                "ortsteil": "Duisdorf",
+                "standort_buerozeiten": "Mo.-Fr. 08.00-12.00",
+                "sekretariat_tel": "+49 228 77-87930",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_63",
+                "homepage": "http://www.koeju.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0417305349,
+                    50.7530164796
+                ]
+            },
+            "properties": {
+                "schule_id": 64,
+                "standort_id": 70,
+                "name": "LVR-Förderschule Bonn, Christophorusschule",
+                "schule_bezeichnung": "Förderschwerpunkt Körperliche und motorische Entwicklung",
+                "schule_schulart": null,
+                "schule_schulform": "Förderschule",
+                "schule_schultraeger": "Landschaftsverband Rheinland, Köln",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Waldenburger Ring",
+                "hausnr": "40",
+                "plz": 53119,
+                "ort": "Bonn",
+                "ortsteil": "Tannenbusch",
+                "standort_buerozeiten": "Mo.-Fr. 08.00-16.00",
+                "sekretariat_tel": "+49 228 98794-0",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_64",
+                "homepage": "http://www.christophorusschule.lvr.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0899874043,
+                    50.747317359
+                ]
+            },
+            "properties": {
+                "schule_id": 65,
+                "standort_id": 71,
+                "name": "Paul-Martini-Schule",
+                "schule_bezeichnung": "Klinikschule der Stadt Bonn",
+                "schule_schulart": null,
+                "schule_schulform": "Förderschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Kaiser-Karl-Ring",
+                "hausnr": "40a",
+                "plz": 53111,
+                "ort": "Bonn",
+                "ortsteil": "Bonn-Castell",
+                "standort_buerozeiten": "Mo., Do.: 08.30-13.00Di., Mi., Fr.: 08.30-12.30",
+                "sekretariat_tel": "+49 228 77-87910",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_65",
+                "homepage": "http://www.paul-martini-schule.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1467570976,
+                    50.6834227652
+                ]
+            },
+            "properties": {
+                "schule_id": 67,
+                "standort_id": 74,
+                "name": "Siebengebirgsschule",
+                "schule_bezeichnung": "Förderschule der Stadt Bonn mit den Förderschwerpunkten Lernen, Emotionale und soziale Entwicklung und Sprache (LES)",
+                "schule_schulart": null,
+                "schule_schulform": "Förderschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": "Winterstraße",
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Winterstraße",
+                "hausnr": "53",
+                "plz": 53177,
+                "ort": "Bonn",
+                "ortsteil": "Schweinheim",
+                "standort_buerozeiten": "Mo.-Fr. 07.45-12.45",
+                "sekretariat_tel": "+49 228 77-7900",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_67",
+                "homepage": "http://www.siebengebirgsschule.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1345096939,
+                    50.6813446862
+                ]
+            },
+            "properties": {
+                "schule_id": 67,
+                "standort_id": 75,
+                "name": "Siebengebirgsschule",
+                "schule_bezeichnung": "Förderschule der Stadt Bonn mit den Förderschwerpunkten Lernen, Emotionale und soziale Entwicklung und Sprache (LES)",
+                "schule_schulart": null,
+                "schule_schulform": "Förderschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": "Venner Straße",
+                "standort_standortart": "Dependance",
+                "strasse": "Venner Straße",
+                "hausnr": "50-52",
+                "plz": 53177,
+                "ort": "Bonn",
+                "ortsteil": "Schweinheim",
+                "standort_buerozeiten": null,
+                "sekretariat_tel": null,
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_67",
+                "homepage": null,
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0771994824,
+                    50.7503068573
+                ]
+            },
+            "properties": {
+                "schule_id": 69,
+                "standort_id": 77,
+                "name": "Collegium Josephinum",
+                "schule_bezeichnung": "-Realschule-",
+                "schule_schulart": null,
+                "schule_schulform": "Realschule",
+                "schule_schultraeger": "Provinzialat der Redemptoristen e.V., Köln",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Kölnstraße",
+                "hausnr": "415",
+                "plz": 53117,
+                "ort": "Bonn",
+                "ortsteil": "Auerberg",
+                "standort_buerozeiten": "Mo.-Fr. 07.30-15.00",
+                "sekretariat_tel": "+49 228 55585-40",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_69",
+                "homepage": "http://www.cojobo.net/realschule",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0899293865,
+                    50.7169085061
+                ]
+            },
+            "properties": {
+                "schule_id": 70,
+                "standort_id": 78,
+                "name": "Emilie-Heyermann-Realschule",
+                "schule_bezeichnung": "Realschule der Stadt Bonn für Jungen und Mädchen",
+                "schule_schulart": null,
+                "schule_schulform": "Realschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Robert-Koch-Straße",
+                "hausnr": "36",
+                "plz": 53115,
+                "ort": "Bonn",
+                "ortsteil": "Poppelsdorf",
+                "standort_buerozeiten": "Mo., Mi. und Do. 07.15-15.00; Di. 07.15-14.30; Fr. 07.15-13.00",
+                "sekretariat_tel": "+49 228 77-7470",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_70",
+                "homepage": "https://emilie-heyermann-realschule.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0435989432,
+                    50.7509411568
+                ]
+            },
+            "properties": {
+                "schule_id": 71,
+                "standort_id": 79,
+                "name": "Freiherr-vom-Stein-Realschule",
+                "schule_bezeichnung": "Realschule der Stadt Bonn für Jungen und Mädchen",
+                "schule_schulart": null,
+                "schule_schulform": "Realschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Hirschberger Straße",
+                "hausnr": "3",
+                "plz": 53119,
+                "ort": "Bonn",
+                "ortsteil": "Tannenbusch",
+                "standort_buerozeiten": "Mo., Di., Do. 08.00-14.00; Mi. und Fr. 08.00-13.00",
+                "sekretariat_tel": "+49 228 77-7100",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_71",
+                "homepage": "https://realschule-bonn.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1633044445,
+                    50.6790167862
+                ]
+            },
+            "properties": {
+                "schule_id": 72,
+                "standort_id": 80,
+                "name": "Gertrud-Bäumer-Schule",
+                "schule_bezeichnung": "Realschule der Stadt Bonn",
+                "schule_schulart": null,
+                "schule_schulform": "Realschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Zeppelinstraße",
+                "hausnr": "9-17",
+                "plz": 53177,
+                "ort": "Bonn",
+                "ortsteil": "Pennenfeld",
+                "standort_buerozeiten": "Mo.-Do. 07.30-13.00 und Fr 07.30-12.30",
+                "sekretariat_tel": "+49 228 77-7620",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_72",
+                "homepage": "https://gbs-bonn.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0374030494,
+                    50.7137965609
+                ]
+            },
+            "properties": {
+                "schule_id": 73,
+                "standort_id": 81,
+                "name": "Margot-Barnard-Realschule",
+                "schule_bezeichnung": "Städtische Realschule für Jungen und Mädchen",
+                "schule_schulart": null,
+                "schule_schulform": "Realschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "René-Schickele-Straße",
+                "hausnr": "4",
+                "plz": 53123,
+                "ort": "Bonn",
+                "ortsteil": "Duisdorf",
+                "standort_buerozeiten": "Mo.-Fr. 08.00-12.30 Uhr (und nach vorheriger Absprache)",
+                "sekretariat_tel": "+49 228 77-7300",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_73",
+                "homepage": "http://www.mbr-bonn.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1262608522,
+                    50.7500445028
+                ]
+            },
+            "properties": {
+                "schule_id": 74,
+                "standort_id": 82,
+                "name": "Realschule Beuel",
+                "schule_bezeichnung": "der Stadt Bonn",
+                "schule_schulart": null,
+                "schule_schulform": "Realschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Adelheidisstraße",
+                "hausnr": "56",
+                "plz": 53225,
+                "ort": "Bonn",
+                "ortsteil": "Vilich",
+                "standort_buerozeiten": "Mo., Di. und Do. 07.00-16.00; Mi. 07.00-15.30; Fr. 07.00-12.30",
+                "sekretariat_tel": "+49 228 77-7406",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_74",
+                "homepage": "http://www.realschule-beuel.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0537233258,
+                    50.7019429362
+                ]
+            },
+            "properties": {
+                "schule_id": 75,
+                "standort_id": 83,
+                "name": "Realschule Hardtberg",
+                "schule_bezeichnung": "Realschule der Stadt Bonn im Schulzentrum Hardtberg",
+                "schule_schulart": null,
+                "schule_schulform": "Realschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Gaußstraße",
+                "hausnr": "2",
+                "plz": 53125,
+                "ort": "Bonn",
+                "ortsteil": "Brüser Berg",
+                "standort_buerozeiten": "Mo.-Fr. 07.15-13.15; Mo.-Do. 13.45-14.30",
+                "sekretariat_tel": "+49 228 77-7350",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_75",
+                "homepage": "http://www.realschule-hardtberg.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1510056822,
+                    50.6775563687
+                ]
+            },
+            "properties": {
+                "schule_id": 76,
+                "standort_id": 84,
+                "name": "Aloisius-Kolleg",
+                "schule_bezeichnung": "Privates Gymnasium der Jesuiten",
+                "schule_schulart": null,
+                "schule_schulform": "Gymnasium",
+                "schule_schultraeger": "Aloisiuskolleg GmbH, Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Elisabethstraße",
+                "hausnr": "18",
+                "plz": 53177,
+                "ort": "Bonn",
+                "ortsteil": "Alt-Godesberg",
+                "standort_buerozeiten": "Mo.-Fr. 08.00-13.15",
+                "sekretariat_tel": "+49 228 82003-101",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_76",
+                "homepage": "https://www.aloisiuskolleg.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1639011077,
+                    50.674783431
+                ]
+            },
+            "properties": {
+                "schule_id": 77,
+                "standort_id": 85,
+                "name": "Amos-Comenius-Gymnasium",
+                "schule_bezeichnung": "Privates Gymnasium der evangelischen Kirche im Rheinland für Jungen und Mädchen",
+                "schule_schulart": null,
+                "schule_schulform": "Gymnasium",
+                "schule_schultraeger": "Evangelische Kirche im Rheinland, Düsseldorf",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Behringstraße",
+                "hausnr": "27",
+                "plz": 53177,
+                "ort": "Bonn",
+                "ortsteil": "Pennenfeld",
+                "standort_buerozeiten": "Mo.-Fr. 07.30-14.00",
+                "sekretariat_tel": "+49 228 95341-0",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_77",
+                "homepage": "http://www.acg-bonn.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1084521637,
+                    50.7303681843
+                ]
+            },
+            "properties": {
+                "schule_id": 78,
+                "standort_id": 86,
+                "name": "Beethoven-Gymnasium",
+                "schule_bezeichnung": "der Stadt Bonn",
+                "schule_schulart": null,
+                "schule_schulform": "Gymnasium",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Adenauerallee",
+                "hausnr": "51-53",
+                "plz": 53113,
+                "ort": "Bonn",
+                "ortsteil": "Südstadt",
+                "standort_buerozeiten": "Mo.-Fr. 08.00-14.00",
+                "sekretariat_tel": "+49 228 77-7429",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_78",
+                "homepage": "https://www.beethoven-gymnasium.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0695042054,
+                    50.6904702194
+                ]
+            },
+            "properties": {
+                "schule_id": 79,
+                "standort_id": 87,
+                "name": "Carl-von-Ossietzky-Gymnasium",
+                "schule_bezeichnung": "Schule der Bundesstadt Bonn",
+                "schule_schulart": null,
+                "schule_schulform": "Gymnasium",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Im Schmalzacker",
+                "hausnr": "49",
+                "plz": 53125,
+                "ort": "Bonn",
+                "ortsteil": "Ückesdorf",
+                "standort_buerozeiten": "Mo.-Do. 07.30-15.00; Fr 07.30-13.30",
+                "sekretariat_tel": "+49 228 77-7370",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_79",
+                "homepage": "http://www.cvo-bonn.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1018301187,
+                    50.7269146883
+                ]
+            },
+            "properties": {
+                "schule_id": 80,
+                "standort_id": 88,
+                "name": "Clara-Schumann-Gymnasium",
+                "schule_bezeichnung": "Städtisches Gymnasium für Jungen und Mädchen",
+                "schule_schulart": null,
+                "schule_schulform": "Gymnasium",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Loestraße",
+                "hausnr": "14",
+                "plz": 53113,
+                "ort": "Bonn",
+                "ortsteil": "Südstadt",
+                "standort_buerozeiten": "Mo.-Do. 07.00-16.00, Fr. 07.00-14.00",
+                "sekretariat_tel": "+49 228 77-7443",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_80",
+                "homepage": "https://www.clara-online.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0771994824,
+                    50.7503068573
+                ]
+            },
+            "properties": {
+                "schule_id": 81,
+                "standort_id": 89,
+                "name": "Collegium Josephinum",
+                "schule_bezeichnung": "Privates Gymnasium",
+                "schule_schulart": null,
+                "schule_schulform": "Gymnasium",
+                "schule_schultraeger": "Provinzialat der Redemptoristen e.V., Köln",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Kölnstraße",
+                "hausnr": "415",
+                "plz": 53117,
+                "ort": "Bonn",
+                "ortsteil": "Auerberg",
+                "standort_buerozeiten": "Mo.-Fr. 07.30-16.00; Sa. 07.30-11.45",
+                "sekretariat_tel": "+49 228 55585-60",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_81",
+                "homepage": "https://www.cojobo.net/gymnasium.html",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1594002662,
+                    50.7178172824
+                ]
+            },
+            "properties": {
+                "schule_id": 82,
+                "standort_id": 90,
+                "name": "Privates Ernst-Kalkuhl-Gymnasium Bonn",
+                "schule_bezeichnung": "Staatlich genehmigtes Gymnasium für Jungen und Mädchen",
+                "schule_schulart": null,
+                "schule_schulform": "Gymnasium",
+                "schule_schultraeger": "Priv. Ernst-Kalkuhl-Gym GmbH, Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Königswinterer Straße",
+                "hausnr": "534",
+                "plz": 53227,
+                "ort": "Bonn",
+                "ortsteil": "Oberkassel",
+                "standort_buerozeiten": "Mo.-Fr. 07.30-13.00; Mi. 13.30-15.00",
+                "sekretariat_tel": "+49 228 97090-90",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_82",
+                "homepage": "http://www.kalkuhl.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1016440287,
+                    50.7280715494
+                ]
+            },
+            "properties": {
+                "schule_id": 83,
+                "standort_id": 91,
+                "name": "Erzbischöfliche Liebfrauenschule Bonn",
+                "schule_bezeichnung": "Staatlich genehmigte Ersatzschule des Erzbistums Köln\r\nGymnasium für Mädchen\r\nSekundarstufen I und II",
+                "schule_schulart": null,
+                "schule_schulform": "Gymnasium",
+                "schule_schultraeger": "Erzbistum Köln, Köln",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Königstraße",
+                "hausnr": "17-19",
+                "plz": 53113,
+                "ort": "Bonn",
+                "ortsteil": "Südstadt",
+                "standort_buerozeiten": "Mo.-Fr. 07.30-14.30",
+                "sekretariat_tel": "+49 228 210700",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_83",
+                "homepage": "https://www.lfs-bonn.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1591541086,
+                    50.6862689357
+                ]
+            },
+            "properties": {
+                "schule_id": 84,
+                "standort_id": 92,
+                "name": "Erzbischöfliches Clara-Fey-Gymnasium Bonn-Bad Godesberg",
+                "schule_bezeichnung": "Staatlich genehmigtes Gymnasium des Erzbistums Köln in Bi-Edukation\r\nSekundarstufen I und II",
+                "schule_schulart": null,
+                "schule_schulform": "Gymnasium",
+                "schule_schultraeger": "Erzbistum Köln, Köln",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Rheinallee",
+                "hausnr": "5",
+                "plz": 53173,
+                "ort": "Bonn",
+                "ortsteil": "Godesberg-Villenviertel",
+                "standort_buerozeiten": "Mo.-Fr. 07.30-14.45",
+                "sekretariat_tel": "+49 228 96213-0",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_84",
+                "homepage": "https://www.cfgbonn.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1250159287,
+                    50.7091029342
+                ]
+            },
+            "properties": {
+                "schule_id": 85,
+                "standort_id": 93,
+                "name": "Friedrich-Ebert-Gymnasium",
+                "schule_bezeichnung": "Schule der Stadt Bonn",
+                "schule_schulart": null,
+                "schule_schulform": "Gymnasium",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Ollenhauerstraße",
+                "hausnr": "5",
+                "plz": 53113,
+                "ort": "Bonn",
+                "ortsteil": "Gronau",
+                "standort_buerozeiten": "Mo.-Do. 07.00-15.00; Fr. 07.00-13.30",
+                "sekretariat_tel": "+49 228 77-7520",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_85",
+                "homepage": "http://www.feg-bonn.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0547591684,
+                    50.702819891
+                ]
+            },
+            "properties": {
+                "schule_id": 86,
+                "standort_id": 94,
+                "name": "Hardtberg-Gymnasium",
+                "schule_bezeichnung": "der Stadt Bonn",
+                "schule_schulart": null,
+                "schule_schulform": "Gymnasium",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Gaußstraße",
+                "hausnr": "1",
+                "plz": 53125,
+                "ort": "Bonn",
+                "ortsteil": "Brüser Berg",
+                "standort_buerozeiten": "Mo.-Do. 08.00-15.00; Fr. 08.00-13.00",
+                "sekretariat_tel": "+49 228 77-7329",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_86",
+                "homepage": "http://www.hardtberg-gymnasium.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0559762353,
+                    50.7210630495
+                ]
+            },
+            "properties": {
+                "schule_id": 87,
+                "standort_id": 95,
+                "name": "Helmholtz-Gymnasium",
+                "schule_bezeichnung": "der Stadt Bonn",
+                "schule_schulart": null,
+                "schule_schulform": "Gymnasium",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Helmholtzstraße",
+                "hausnr": "18",
+                "plz": 53123,
+                "ort": "Bonn",
+                "ortsteil": "Duisdorf",
+                "standort_buerozeiten": "Mo.-Do. 08.00-15.30; Fr. 08.00-14.00",
+                "sekretariat_tel": "+49 228 77-7249",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_87",
+                "homepage": "http://www.hhg-bonn.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1265648293,
+                    50.727177482
+                ]
+            },
+            "properties": {
+                "schule_id": 88,
+                "standort_id": 96,
+                "name": "Kardinal-Frings-Gymnasium",
+                "schule_bezeichnung": "Staatlich genehmigtes privates Gymnasium für Jungen und Mädchen des Erzbistums Köln\n- Sekundarstufe I und II -",
+                "schule_schulart": null,
+                "schule_schulform": "Gymnasium",
+                "schule_schultraeger": "Erzbistum Köln, Köln",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Elsa-Brändström-Straße",
+                "hausnr": "71-91",
+                "plz": 53227,
+                "ort": "Bonn",
+                "ortsteil": "Limperich",
+                "standort_buerozeiten": "Mo.-Do. 07.30-16.00; Fr. 07.30-14.00",
+                "sekretariat_tel": "+49 228 42161-0",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_88",
+                "homepage": "http://www.kardinal-frings-gymnasium.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1696115565,
+                    50.6712211633
+                ]
+            },
+            "properties": {
+                "schule_id": 89,
+                "standort_id": 97,
+                "name": "Konrad-Adenauer-Gymnasium",
+                "schule_bezeichnung": "der Stadt Bonn für Jungen und Mädchen",
+                "schule_schulart": null,
+                "schule_schulform": "Gymnasium",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Max-Planck-Straße",
+                "hausnr": "24-36",
+                "plz": 53177,
+                "ort": "Bonn",
+                "ortsteil": "Pennenfeld",
+                "standort_buerozeiten": "Mo., Mi. und Do. 07.30-16.00; Di. und Fr. 07.30-13.30",
+                "sekretariat_tel": "+49 228 77-7633",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_89",
+                "homepage": "http://www.adenauer-bonn.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1563273744,
+                    50.695702629
+                ]
+            },
+            "properties": {
+                "schule_id": 90,
+                "standort_id": 98,
+                "name": "Nicolaus-Cusanus-Gymnasium",
+                "schule_bezeichnung": "der Stadt Bonn",
+                "schule_schulart": null,
+                "schule_schulform": "Gymnasium",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Gotenstraße",
+                "hausnr": "50",
+                "plz": 53175,
+                "ort": "Bonn",
+                "ortsteil": "Plittersdorf",
+                "standort_buerozeiten": "Mo.-Do. 07.00-16.00; Fr. 07.00-14.30",
+                "sekretariat_tel": "+49 228 77-7569",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_90",
+                "homepage": "http://www.ncg-bonn.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.166783011,
+                    50.6885306313
+                ]
+            },
+            "properties": {
+                "schule_id": 91,
+                "standort_id": 99,
+                "name": "Otto-Kühne-Schule Godesberg GmbH",
+                "schule_bezeichnung": "staatlich genehmigtes privates Gymnasium mit Sekundarstufen I und II",
+                "schule_schulart": null,
+                "schule_schulform": "Gymnasium",
+                "schule_schultraeger": "Otto-Kühne-Schule GmbH, Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Otto-Kühne-Platz",
+                "hausnr": "1",
+                "plz": 53173,
+                "ort": "Bonn",
+                "ortsteil": "Godesberg-Villenviertel",
+                "standort_buerozeiten": "Mo.-Do. 08.00-16.00; Fr 08.00-14.30",
+                "sekretariat_tel": "+49 228 9566-15",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_91",
+                "homepage": "http://www.otto-kuehne-schule.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1471013291,
+                    50.7428795632
+                ]
+            },
+            "properties": {
+                "schule_id": 92,
+                "standort_id": 100,
+                "name": "Privates St.-Adelheid-Gymnasium",
+                "schule_bezeichnung": "- Sekundarstufen I und II -\ndes Erzbistums Köln",
+                "schule_schulart": null,
+                "schule_schulform": "Gymnasium",
+                "schule_schultraeger": "Erzbistum Köln, Köln",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Pützchens Chaussee",
+                "hausnr": "133",
+                "plz": 53229,
+                "ort": "Bonn",
+                "ortsteil": "Pützchen/Bechlinghoven",
+                "standort_buerozeiten": "Mo.-Fr. 07.30-15.30",
+                "sekretariat_tel": "+49 228 97736-0",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_92",
+                "homepage": "http://www.sag-bonn.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0435989432,
+                    50.7509411568
+                ]
+            },
+            "properties": {
+                "schule_id": 93,
+                "standort_id": 101,
+                "name": "Tannenbusch-Gymnasium",
+                "schule_bezeichnung": "der Stadt Bonn\r\n\r\nmit Musik- und Sportzweig",
+                "schule_schulart": null,
+                "schule_schulform": "Gymnasium",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": "Schulzentrum Tannenbusch",
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Hirschberger Straße",
+                "hausnr": "3",
+                "plz": 53119,
+                "ort": "Bonn",
+                "ortsteil": "Tannenbusch",
+                "standort_buerozeiten": "Mo.-Do. 07.00-14.00; Fr. 07.00-13.00",
+                "sekretariat_tel": "+49 228 77-7093",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_93",
+                "homepage": "http://www.tannenbusch-gymnasium.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.047157448,
+                    50.7483971112
+                ]
+            },
+            "properties": {
+                "schule_id": 93,
+                "standort_id": 102,
+                "name": "Tannenbusch-Gymnasium",
+                "schule_bezeichnung": "der Stadt Bonn\r\n\r\nmit Musik- und Sportzweig",
+                "schule_schulart": null,
+                "schule_schulform": "Gymnasium",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": "Abteilung Chemnitzer Weg",
+                "standort_standortart": "Dependance",
+                "strasse": "Chemnitzer Weg",
+                "hausnr": "2",
+                "plz": 53119,
+                "ort": "Bonn",
+                "ortsteil": "Tannenbusch",
+                "standort_buerozeiten": null,
+                "sekretariat_tel": null,
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_93",
+                "homepage": null,
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0520789146,
+                    50.7457886589
+                ]
+            },
+            "properties": {
+                "schule_id": 94,
+                "standort_id": 103,
+                "name": "Bertolt-Brecht-Gesamtschule",
+                "schule_bezeichnung": "Schule der Stadt Bonn",
+                "schule_schulart": null,
+                "schule_schulform": "Gesamtschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Schlesienstraße",
+                "hausnr": "21-23",
+                "plz": 53119,
+                "ort": "Bonn",
+                "ortsteil": "Tannenbusch",
+                "standort_buerozeiten": "Mo.-Do. 07.30-15.30; Fr. 07.30-13.30",
+                "sekretariat_tel": "+49 228 77-6948",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_94",
+                "homepage": "https://www.bbgbonn.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1059408622,
+                    50.7169679103
+                ]
+            },
+            "properties": {
+                "schule_id": 95,
+                "standort_id": 104,
+                "name": "BONNS FÜNFTE",
+                "schule_bezeichnung": "Inklusive Gesamtschule der Bundesstadt Bonn",
+                "schule_schulart": null,
+                "schule_schulform": "Gesamtschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Eduard-Otto-Straße",
+                "hausnr": "9",
+                "plz": 53129,
+                "ort": "Bonn",
+                "ortsteil": "Kessenich",
+                "standort_buerozeiten": "Mo.-Fr. 07.30-14.00",
+                "sekretariat_tel": "+49 228 77-7504",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_95",
+                "homepage": "http://www.bonnsfuenfte.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1476442516,
+                    50.69538433
+                ]
+            },
+            "properties": {
+                "schule_id": 96,
+                "standort_id": 105,
+                "name": "Elisabeth-Selbert-Gesamtschule",
+                "schule_bezeichnung": "der Stadt Bonn\r\n- Sekundarstufen I und II -",
+                "schule_schulart": null,
+                "schule_schulform": "Gesamtschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Elisabeth-Selbert-Allee",
+                "hausnr": "50",
+                "plz": 53175,
+                "ort": "Bonn",
+                "ortsteil": "Plittersdorf",
+                "standort_buerozeiten": "Mo., Mi., Do. 07.30-16.00; Di. u. Fr. 07.30-13.00",
+                "sekretariat_tel": "+49 228 77-7545",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_96",
+                "homepage": "http://igs-bonn.de/wordpress/",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1494408232,
+                    50.7496033084
+                ]
+            },
+            "properties": {
+                "schule_id": 97,
+                "standort_id": 106,
+                "name": "Gesamtschule Beuel",
+                "schule_bezeichnung": "der Stadt Bonn\r\n- Sekundarstufen I und II -",
+                "schule_schulart": null,
+                "schule_schulform": "Gesamtschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Siegburger Straße",
+                "hausnr": "321",
+                "plz": 53229,
+                "ort": "Bonn",
+                "ortsteil": "Pützchen/Bechlinghoven",
+                "standort_buerozeiten": "Mo., Mi. und Do. 06.30-16.00; Di. und Fr. 06.30-14.30",
+                "sekretariat_tel": "+49 228 77-7170",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_97",
+                "homepage": "https://www.gebonn.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0955529404,
+                    50.7458281485
+                ]
+            },
+            "properties": {
+                "schule_id": 98,
+                "standort_id": 107,
+                "name": "Marie-Kahle-Gesamtschule",
+                "schule_bezeichnung": "der Stadt Bonn",
+                "schule_schulart": null,
+                "schule_schulform": "Gesamtschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Graurheindorfer Straße",
+                "hausnr": "80",
+                "plz": 53111,
+                "ort": "Bonn",
+                "ortsteil": "Bonn-Castell",
+                "standort_buerozeiten": "Mo., Mi., Do. 07.30 - 15.00 Uhr; Di., Fr. 07.30-13.00",
+                "sekretariat_tel": "+49 228 77-7680",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_98",
+                "homepage": "http://www.marie-kahle-gesamtschule.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1142199715,
+                    50.7080583504
+                ]
+            },
+            "properties": {
+                "schule_id": 99,
+                "standort_id": 108,
+                "name": "Weiterbildungskolleg",
+                "schule_bezeichnung": "der Bundesstadt Bonn\r\nAbendrealschule, Abendgymnasium und Kolleg",
+                "schule_schulart": null,
+                "schule_schulform": "Weiterbildungskolleg",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": "Bonn",
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Langwartweg",
+                "hausnr": "72",
+                "plz": 53129,
+                "ort": "Bonn",
+                "ortsteil": "Dottendorf",
+                "standort_buerozeiten": "Montag und Donnerstag: 08:00 - 18:00 UhrDienstag und Mittwoch: 08:00 - 16:00 UhrFreitag 08:00 - 15:00 Uhr",
+                "sekretariat_tel": "+49 228 77-7658",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_99",
+                "homepage": "http://www.weiterbildungskolleg-bonn.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0874811878,
+                    50.7414013894
+                ]
+            },
+            "properties": {
+                "schule_id": 100,
+                "standort_id": 110,
+                "name": "Abendrealschule Bonn",
+                "schule_bezeichnung": "Weiterbildungskolleg der Bundesstadt Bonn",
+                "schule_schulart": null,
+                "schule_schulform": "Weiterbildungskolleg",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Dorotheenstraße",
+                "hausnr": "126",
+                "plz": 53111,
+                "ort": "Bonn",
+                "ortsteil": "Nordstadt",
+                "standort_buerozeiten": "Mo.-Fr. außer Mi. 08.30-12.30; 13.30-19.00",
+                "sekretariat_tel": "+49 228 77-5440",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_100",
+                "homepage": "http://www.abendrealschule-bonn.de/",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0558429552,
+                    50.7465996979
+                ]
+            },
+            "properties": {
+                "schule_id": 101,
+                "standort_id": 111,
+                "name": "Freie Waldorfschule Bonn",
+                "schule_bezeichnung": "",
+                "schule_schulart": null,
+                "schule_schulform": "Waldorfschule",
+                "schule_schultraeger": "Freie Waldorfschule Bonn e.V., Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Stettiner Straße",
+                "hausnr": "21",
+                "plz": 53119,
+                "ort": "Bonn",
+                "ortsteil": "Tannenbusch",
+                "standort_buerozeiten": "Mo.-Fr. 07.45 -12.30",
+                "sekretariat_tel": "+49 228 66807-0",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_101",
+                "homepage": "http://www.fwsbonn.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1560658442,
+                    50.6899050128
+                ]
+            },
+            "properties": {
+                "schule_id": 102,
+                "standort_id": 112,
+                "name": "Friedrich-List-Berufskolleg",
+                "schule_bezeichnung": "Kaufmännische Berufs- und Berufsfachschule der Stadt Bonn",
+                "schule_schulart": null,
+                "schule_schulform": "Berufskolleg",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Plittersdorfer Straße",
+                "hausnr": "48",
+                "plz": 53173,
+                "ort": "Bonn",
+                "ortsteil": "Godesberg-Villenviertel",
+                "standort_buerozeiten": "Mo. und Mi. 07.00-14.00; Di. und Do. 07.00-16.30; Fr. 07.00-12.00",
+                "sekretariat_tel": "+49 228 77-7197",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_102",
+                "homepage": "http://www.flb-bonn.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0870216042,
+                    50.7534913465
+                ]
+            },
+            "properties": {
+                "schule_id": 103,
+                "standort_id": 113,
+                "name": "Heinrich-Hertz-Europakolleg",
+                "schule_bezeichnung": "der Bundesstadt Bonn\nBerufskolleg mit beruflichem Gymnasium",
+                "schule_schulart": null,
+                "schule_schulform": "Berufskolleg",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Herseler Straße",
+                "hausnr": "1-5",
+                "plz": 53117,
+                "ort": "Bonn",
+                "ortsteil": "Graurheindorf",
+                "standort_buerozeiten": "Mo.-Do. 07.00-15.00; Fr. 07.00-14.30",
+                "sekretariat_tel": "+49 228 77-7003",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_103",
+                "homepage": "http://www.hhek.bonn.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0860162348,
+                    50.7439218106
+                ]
+            },
+            "properties": {
+                "schule_id": 104,
+                "standort_id": 114,
+                "name": "Ludwig-Erhard-Berufskolleg",
+                "schule_bezeichnung": "der Stadt Bonn",
+                "schule_schulart": null,
+                "schule_schulform": "Berufskolleg",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Kölnstraße",
+                "hausnr": "235",
+                "plz": 53117,
+                "ort": "Bonn",
+                "ortsteil": "Nordstadt",
+                "standort_buerozeiten": "Mo.-Do. 07.00-15.00; Fr. 07.00-13.00",
+                "sekretariat_tel": "+49 228 77-7048",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_104",
+                "homepage": "http://www.leb-bonn.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0588555868,
+                    50.7203971249
+                ]
+            },
+            "properties": {
+                "schule_id": 105,
+                "standort_id": 115,
+                "name": "Berufskolleg des Rhein-Sieg-Kreises",
+                "schule_bezeichnung": "Bonn-Duisdorf",
+                "schule_schulart": null,
+                "schule_schulform": "Berufskolleg",
+                "schule_schultraeger": "Rhein-Sieg-Kreis",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Rochusstraße",
+                "hausnr": "30",
+                "plz": 53123,
+                "ort": "Bonn",
+                "ortsteil": "Duisdorf",
+                "standort_buerozeiten": "Mo.-Do. 07.00-15.30, Fr. 07.00-12.00",
+                "sekretariat_tel": "+49 228 52680-0",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_105",
+                "homepage": "http://www.berufskolleg-bonn-duisdorf.de",
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0887089495,
+                    50.7299256908
+                ]
+            },
+            "properties": {
+                "schule_id": 106,
+                "standort_id": 116,
+                "name": "Ernst-Moritz-Arndt-Gymnasium",
+                "schule_bezeichnung": "der Stadt Bonn",
+                "schule_schulart": null,
+                "schule_schulform": "Gymnasium",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Endenicher Allee",
+                "hausnr": "1",
+                "plz": 53115,
+                "ort": "Bonn",
+                "ortsteil": "Weststadt",
+                "standort_buerozeiten": "Mo.-Do. 07.30-15.00; Fr. 07.30-13.50",
+                "sekretariat_tel": "+49 228 77-7274",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_106",
+                "homepage": "https://ema-bonn.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0573538556,
+                    50.7551378612
+                ]
+            },
+            "properties": {
+                "schule_id": 108,
+                "standort_id": 119,
+                "name": "Gemeinschaftsgrundschule Am Apfelgarten",
+                "schule_bezeichnung": "der Bundesstadt Bonn",
+                "schule_schulart": "Gemeinschaftsschule",
+                "schule_schulform": "Grundschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Peter-Klein-Straße",
+                "hausnr": "4",
+                "plz": 53117,
+                "ort": "Bonn",
+                "ortsteil": "Buschdorf",
+                "standort_buerozeiten": "Do. 08.00-12.00",
+                "sekretariat_tel": "+49 228 77-89112",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_108",
+                "homepage": "https://ggspeterkleinstrasse.de",
+                "gemeinsames_lernen": "Ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1248067328,
+                    50.7361447007
+                ]
+            },
+            "properties": {
+                "schule_id": 4,
+                "standort_id": 120,
+                "name": "Robert-Wetzlar-Berufskolleg",
+                "schule_bezeichnung": "Hauswirtschaftliche, sozialpädagogische, gewerbliche Schulen der Stadt Bonn\r\nUnesco-Projekt-Schule",
+                "schule_schulart": null,
+                "schule_schulform": "Berufskolleg",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": "ehem. Realschule Beuel",
+                "standort_standortart": "Nebenstandort",
+                "strasse": "Rölsdorfstraße",
+                "hausnr": "20",
+                "plz": 53225,
+                "ort": "Bonn",
+                "ortsteil": "Beuel-Mitte",
+                "standort_buerozeiten": null,
+                "sekretariat_tel": null,
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_4",
+                "homepage": null,
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0735238627,
+                    50.6807010085
+                ]
+            },
+            "properties": {
+                "schule_id": 4,
+                "standort_id": 121,
+                "name": "Robert-Wetzlar-Berufskolleg",
+                "schule_bezeichnung": "Hauswirtschaftliche, sozialpädagogische, gewerbliche Schulen der Stadt Bonn\r\nUnesco-Projekt-Schule",
+                "schule_schulart": null,
+                "schule_schulform": "Berufskolleg",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": "Außenstelle Röttgen",
+                "standort_standortart": "Dependance",
+                "strasse": "Reichsstraße",
+                "hausnr": "23",
+                "plz": 53125,
+                "ort": "Bonn",
+                "ortsteil": "Röttgen",
+                "standort_buerozeiten": null,
+                "sekretariat_tel": null,
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_4",
+                "homepage": null,
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0667262548,
+                    50.7334447425
+                ]
+            },
+            "properties": {
+                "schule_id": 109,
+                "standort_id": 122,
+                "name": "Schule am Hügel",
+                "schule_bezeichnung": "Förderschule der Stadt Bonn mit den Förderschwerpunkten Lernen und Emotionale und soziale Entwicklung in der Sekundarstufe I",
+                "schule_schulart": null,
+                "schule_schulform": "Förderschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Am Propsthof",
+                "hausnr": "102",
+                "plz": 53121,
+                "ort": "Bonn",
+                "ortsteil": "Endenich",
+                "standort_buerozeiten": "Mo.-Do. 08.00-12.30; Fr. 08.00-12.00",
+                "sekretariat_tel": "+49 228 77-60980",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_109",
+                "homepage": null,
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1261313936,
+                    50.7349546306
+                ]
+            },
+            "properties": {
+                "schule_id": 110,
+                "standort_id": 123,
+                "name": "Schule am Rheingarten",
+                "schule_bezeichnung": "Förderschule der Stadt Bonn mit den Förderschwerpunkten Lernen, Sprache und Emotionale und soziale Entwicklung in der Primarstufe sowie der Sekundarstufe I",
+                "schule_schulart": null,
+                "schule_schulform": "Förderschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": null,
+                "standort_standortart": "Hauptstandort",
+                "strasse": "Ringstraße",
+                "hausnr": "69-71",
+                "plz": 53225,
+                "ort": "Bonn",
+                "ortsteil": "Beuel-Mitte",
+                "standort_buerozeiten": "Di. und Do. 08.00-13.00; Mi. 11.00-13.00",
+                "sekretariat_tel": "+49 228 77-6541",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_110",
+                "homepage": null,
+                "gemeinsames_lernen": null
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0573538556,
+                    50.7551378612
+                ]
+            },
+            "properties": {
+                "schule_id": 63,
+                "standort_id": 124,
+                "name": "Königin-Juliana-Schule",
+                "schule_bezeichnung": "Förderschule der Stadt Bonn\r\nFörderschwerpunkt Geistige Entwicklung",
+                "schule_schulart": null,
+                "schule_schulform": "Förderschule",
+                "schule_schultraeger": "Stadt Bonn",
+                "standort_name": "Buschdorf",
+                "standort_standortart": "Nebenstandort",
+                "strasse": "Schlesienstraße",
+                "hausnr": "584",
+                "plz": 53119,
+                "ort": "Bonn",
+                "ortsteil": "Buschdorf",
+                "standort_buerozeiten": null,
+                "sekretariat_tel": "+49 228 77-87940",
+                "webkey": "https://bonn.de/?sp:id=XDATAGROUPE28928E23_63",
+                "homepage": null,
+                "gemeinsames_lernen": null
+            }
+        }
+    ]
+}

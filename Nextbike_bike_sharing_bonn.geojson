@@ -1,0 +1,615 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.118411, 50.714561]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "capacity": "12",
+            "operator": "nextbike",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.141756, 50.696989]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "operator": "nextbike",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.094161, 50.725948]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "capacity": "10",
+            "network": "Nextbike",
+            "operator": "Nextbike",
+            "ref": "4750",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.08534, 50.728466]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "capacity": "10",
+            "network": "Nextbike",
+            "operator": "Nextbike",
+            "ref": "4765",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.081241, 50.736687]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "capacity": "10",
+            "operator": "Nextbike",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.097668, 50.73434]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "capacity": "10",
+            "network": "Nextbike",
+            "operator": "Nextbike",
+            "ref": "4753",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.094483, 50.736158]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "capacity": "10",
+            "operator": "Nextbike",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.105923, 50.736854]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "capacity": "10",
+            "operator": "Nextbike",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.108268, 50.735146]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "capacity": "10",
+            "operator": "Nextbike",
+            "ref": "4760",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.126381, 50.739277]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "capacity": "10",
+            "network": "Nextbike",
+            "operator": "Nextbike",
+            "ref": "4741",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.125466, 50.717893]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "capacity": "10",
+            "operator": "Nextbike",
+            "ref": "53133",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.181713, 50.668402]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "capacity": "10",
+            "operator": "Nextbike",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.108278, 50.729993]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "capacity": "10",
+            "operator": "Nextbike",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.143151, 50.721648]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "fee": "yes",
+            "name": "T-Mobile, Landgrabenweg, Bonn",
+            "network": "nextbike",
+            "operator": "nextbike",
+            "ref": "4472",
+            "website": "https://www.nextbike.de/de/bonn/",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.11346, 50.737877]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "brand": "nextbike",
+            "brand:wikidata": "Q2351279",
+            "brand:wikipedia": "de:Nextbike",
+            "fee": "yes",
+            "name": "nextbike",
+            "network": "nextbike",
+            "ref": "4890",
+            "ref_name": "Hans-Steger-Ufer, Bonn",
+            "website": "https://www.nextbike.de/de/bonn/",
+            "wheelchair": "yes",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.096864, 50.735625]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "network": "Nextbike",
+            "operator": "Nextbike",
+            "ref": "4785",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.105147, 50.729131]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "network": "Nextbike",
+            "operator": "Nextbike",
+            "ref": "4738",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.081211, 50.726958]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "network": "Nextbike",
+            "operator": "Nextbike",
+            "ref": "4781",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.08044, 50.6975]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "network": "Nextbike",
+            "operator": "Nextbike",
+            "ref": "4889",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.07094, 50.678025]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "network": "Nextbike",
+            "operator": "Nextbike",
+            "ref": "4986",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.064734, 50.692027]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "network": "Nextbike",
+            "ref": "4985",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.057213, 50.699607]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "network": "Nextbike",
+            "operator": "Nextbike",
+            "ref": "4899",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.033883, 50.706816]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "network": "Nextbike",
+            "operator": "Nextbike",
+            "ref": "4984",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.175035, 50.749947]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "brand": "nextbike",
+            "brand:wikidata": "Q2351279",
+            "brand:wikipedia": "de:Nextbike",
+            "name": "nextbike",
+            "network": "nextbike",
+            "ref": "4773",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.146706, 50.754246]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "brand": "metropolradruhr",
+            "brand:wikidata": "Q62104274",
+            "network": "metropolradruhr",
+            "network:wikidata": "Q62104274",
+            "operator": "Nextbike",
+            "operator:wikidata": "Q2351279",
+            "ref": "4894",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.117346, 50.742712]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "network": "Nextbike",
+            "operator": "Nextbike",
+            "ref": "4877",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.11738, 50.736592]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "fee": "yes",
+            "network": "Nextbike",
+            "operator": "Nextbike",
+            "ref": "4774",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.091736, 50.740352]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "operator": "Nextbike",
+            "ref": "4757",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.087397, 50.739508]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "operator": "Nextbike",
+            "ref": "4888",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.076565, 50.75521]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "operator": "Nextbike",
+            "payment:app": "yes",
+            "payment:cards": "no",
+            "payment:cash": "no",
+            "payment:membership_card": "no",
+            "ref": "4883",
+            "rental": "city_bike",
+            "website": "https://www.nextbike.de/bonn/de/",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.090337, 50.743436]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "operator": "Nextbike",
+            "ref": "4880",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.046917, 50.758937]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "operator": "Nextbike",
+            "ref": "4982",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.046224, 50.749719]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "operator": "Nextbike",
+            "ref": "4884",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.061773, 50.735017]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "operator": "Nextbike",
+            "ref": "4739",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.074049, 50.726109]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "operator": "Nextbike",
+            "ref": "4886",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.041624, 50.716283]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "operator": "Nextbike",
+            "ref": "4896",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.114667, 50.721435]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "operator": "Nextbike",
+            "ref": "4874",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.11119, 50.725984]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "operator": "Nextbike",
+            "ref": "4776",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.102567, 50.734884]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "operator": "Nextbike",
+            "ref": "4749",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.097874, 50.741408]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "operator": "Nextbike",
+            "ref": "4882",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.101199, 50.731671]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "id": "4740",
+            "network": "Nextbike",
+            "operator": "Nextbike",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.095801, 50.736035]
+        },
+        "properties": {
+            "addr:housenumber": "6",
+            "addr:street": "Budapester Stra\u00dfe",
+            "amenity": "bicycle_rental",
+            "brand": "Swapfiets",
+            "brand:wikidata": "Q62104374",
+            "check_date:opening_hours": "2023-06-23",
+            "name": "Swapfiets",
+            "network": "Swapfiets",
+            "network:wikidata": "Q62104374",
+            "opening_hours": "Mo,Tu,Th,Fr 12:00-18:00; Sa 11:00-17:00",
+            "operator": "Swapfiets",
+            "operator:wikidata": "Q62104374",
+            "service:bicycle:pump": "no",
+            "service:bicycle:repair": "yes",
+            "service:bicycle:retail": "yes",
+            "service:bicycle:second_hand": "no",
+            "website": "https://swapfiets.de",
+            "wheelchair": "yes",
+            "geometry": "Point"
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [7.04676, 50.758531]
+        },
+        "properties": {
+            "amenity": "bicycle_rental",
+            "bicycle_rental": "dropoff_point",
+            "capacity": "5",
+            "name": "Mobic Station Buschdorf",
+            "network": "Nextbike",
+            "operator": "REVK",
+            "ref": "53167",
+            "geometry": "Point"
+        }
+    }]
+}

@@ -1,0 +1,1061 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1499587797,
+                    50.6991438664
+                ]
+            },
+            "properties": {
+                "point_id": 73502,
+                "name": "Deutsches Museum Bonn",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 2005,
+                "strasse_bezeichnung": "Ahrstraße",
+                "hausnr": "45",
+                "plz": "53175",
+                "telefon": "0228/ 302255",
+                "fax": "0228/ 302254",
+                "email": "info@deutsches-museum-bonn.de",
+                "internet": "www.deutsches-museum-bonn.de",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-02005",
+                "plzort": "53175 Bonn",
+                "adresse": "Ahrstraße 45"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1134518673,
+                    50.7220804664
+                ]
+            },
+            "properties": {
+                "point_id": 83980,
+                "name": "Zoologisches Forschungsmuseum Alexander Koenig",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1072,
+                "strasse_bezeichnung": "Adenauerallee",
+                "hausnr": "160",
+                "plz": "53113",
+                "telefon": "0228 91220",
+                "fax": "0228 9122212",
+                "email": "info@leibniz-zfmk.de",
+                "internet": "www.zfmk.de/de",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-01072",
+                "plzort": "53113 Bonn",
+                "adresse": "Adenauerallee 160"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1062566964,
+                    50.7317957716
+                ]
+            },
+            "properties": {
+                "point_id": 98433,
+                "name": "Akademisches Kunstmuseum",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1031,
+                "strasse_bezeichnung": "Am Hofgarten",
+                "hausnr": "21",
+                "plz": "53113",
+                "telefon": "0228/ 737738",
+                "fax": "0228/ 737282",
+                "email": "akmuseum@uni-bonn.de",
+                "internet": "www.antikensammlung.uni-bonn.de",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-01031",
+                "plzort": "53113 Bonn",
+                "adresse": "Am Hofgarten 21"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.08619598,
+                    50.7375618469
+                ]
+            },
+            "properties": {
+                "point_id": 98434,
+                "name": "August-Macke-Haus",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1340,
+                "strasse_bezeichnung": "Hochstadenring",
+                "hausnr": "36",
+                "plz": "53119",
+                "telefon": "0228/ 655531",
+                "fax": "0228/ 691550",
+                "email": "buero@august-macke-haus.de",
+                "internet": "www.august-macke-haus.de",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-01340",
+                "plzort": "53119 Bonn",
+                "adresse": "Hochstadenring 36"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1013140789,
+                    50.7370106667
+                ]
+            },
+            "properties": {
+                "point_id": 98435,
+                "name": "Beethoven-Haus Bonn",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1112,
+                "strasse_bezeichnung": "Bonngasse",
+                "hausnr": "24-26",
+                "plz": "53111",
+                "telefon": "0228/ 98175-0",
+                "fax": "0228/ 9817526",
+                "email": "sekretariat@beethoven.de",
+                "internet": "www.beethoven.de",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-01112",
+                "plzort": "53111 Bonn",
+                "adresse": "Bonngasse 24-26"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1104044726,
+                    50.7288479774
+                ]
+            },
+            "properties": {
+                "point_id": 98436,
+                "name": "Ernst-Moritz-Arndt-Haus",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1072,
+                "strasse_bezeichnung": "Adenauerallee",
+                "hausnr": "79",
+                "plz": "53113",
+                "telefon": "0228/ 241435",
+                "fax": "0228/ 241435",
+                "email": "stadtmuseum@bonn.de",
+                "internet": "www.bonn.de/?sp:id=20865",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-01072",
+                "plzort": "53113 Bonn",
+                "adresse": "Adenauerallee 79"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.09266189,
+                    50.740700832
+                ]
+            },
+            "properties": {
+                "point_id": 98437,
+                "name": "Frauen-Museum",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1367,
+                "strasse_bezeichnung": "Im Krausfeld",
+                "hausnr": "10",
+                "plz": "53111",
+                "telefon": "0228/ 69 13 44",
+                "fax": "0228/ 69 61 64",
+                "email": "info@frauenmuseum.de",
+                "internet": "www.frauenmuseum.de",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-01367",
+                "plzort": "53111 Bonn",
+                "adresse": "Im Krausfeld 10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.118967201,
+                    50.7174294672
+                ]
+            },
+            "properties": {
+                "point_id": 98442,
+                "name": "Haus der Geschichte der Bundesrepublik Deutschland",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1832,
+                "strasse_bezeichnung": "Willy-Brandt-Allee",
+                "hausnr": "14",
+                "plz": "53113",
+                "telefon": "0228/ 9165-0",
+                "fax": "0228/ 9165-302",
+                "email": "post@hdg.de",
+                "internet": "www.hdg.de",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-01832",
+                "plzort": "53113 Bonn",
+                "adresse": "Willy-Brandt-Allee 14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0947842838,
+                    50.6906115004
+                ]
+            },
+            "properties": {
+                "point_id": 98444,
+                "name": "Haus der Natur",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1173,
+                "strasse_bezeichnung": "An der Waldau",
+                "hausnr": "48",
+                "plz": "53127",
+                "telefon": "0228/ 285107",
+                "fax": null,
+                "email": null,
+                "internet": "haus-der-natur.bonn.de",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-01173",
+                "plzort": "53127 Bonn",
+                "adresse": "An der Waldau 48"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1180950731,
+                    50.7353304658
+                ]
+            },
+            "properties": {
+                "point_id": 98445,
+                "name": "Heimatmuseum Beuel",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 3635,
+                "strasse_bezeichnung": "Wagnergasse",
+                "hausnr": "2-4",
+                "plz": "53225",
+                "telefon": "0228/ 463074 ",
+                "fax": "0228/ 463074",
+                "email": "info@hgv-beuel.de",
+                "internet": "www.hgv-beuel.de",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-03635",
+                "plzort": "53225 Bonn",
+                "adresse": "Wagnergasse 2-4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0688658378,
+                    50.7112912398
+                ]
+            },
+            "properties": {
+                "point_id": 98446,
+                "name": "Heimatmuseum Lengsdorf",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 4719,
+                "strasse_bezeichnung": "Lengsdorfer Hauptstraße",
+                "hausnr": "16",
+                "plz": "53127",
+                "telefon": "0228/ 6203920",
+                "fax": null,
+                "email": null,
+                "internet": "www.lengsdorf.info/hvv/heimatmuseum.htm",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-04719",
+                "plzort": "53127 Bonn",
+                "adresse": "Lengsdorfer Hauptstraße 16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0868442084,
+                    50.7389923537
+                ]
+            },
+            "properties": {
+                "point_id": 98447,
+                "name": "Bonner Kunstverein",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1340,
+                "strasse_bezeichnung": "Hochstadenring",
+                "hausnr": "22",
+                "plz": "53119",
+                "telefon": "0228/ 693936",
+                "fax": "0228/ 695589",
+                "email": "artothek@bonner-kunstverein.de",
+                "internet": "www.bonner-kunstverein.de",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-01340",
+                "plzort": "53119 Bonn",
+                "adresse": "Hochstadenring 22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1207923789,
+                    50.7153730025
+                ]
+            },
+            "properties": {
+                "point_id": 98449,
+                "name": "Kunstmuseum Bonn",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1989,
+                "strasse_bezeichnung": "Helmut-Kohl-Allee",
+                "hausnr": "2",
+                "plz": "53113",
+                "telefon": "0228/ 776260",
+                "fax": "0228/ 776220",
+                "email": "kunstmuseum@bonn.de",
+                "internet": "www.kunstmuseum-bonn.de",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-01989",
+                "plzort": "53113 Bonn",
+                "adresse": "Helmut-Kohl-Allee 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.122448725,
+                    50.714322782
+                ]
+            },
+            "properties": {
+                "point_id": 98450,
+                "name": "Kunst- und Ausstellungshalle der Bundesrepublik Deutschland",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1989,
+                "strasse_bezeichnung": "Helmut-Kohl-Allee",
+                "hausnr": "4",
+                "plz": "53113",
+                "telefon": "0228/ 9171200",
+                "fax": "0228/ 9171209",
+                "email": "info@kah-bonn.de",
+                "internet": "www.bundeskunsthalle.de",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-01989",
+                "plzort": "53113 Bonn",
+                "adresse": "Helmut-Kohl-Allee 4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0891410289,
+                    50.7312838809
+                ]
+            },
+            "properties": {
+                "point_id": 98454,
+                "name": "Kurfürstliches Gärtnerhaus",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1088,
+                "strasse_bezeichnung": "Beethovenplatz",
+                "hausnr": "1",
+                "plz": "53115",
+                "telefon": "0228/ 18088708",
+                "fax": null,
+                "email": "gaertnerhaus@kuenstlerforum-bonn.de",
+                "internet": "www.kuenstlerforum-bonn.de",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-01088",
+                "plzort": "53115 Bonn",
+                "adresse": "Beethovenplatz 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0920947671,
+                    50.7248769278
+                ]
+            },
+            "properties": {
+                "point_id": 98455,
+                "name": "Mineralogisches Museum",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1535,
+                "strasse_bezeichnung": "Meckenheimer Allee",
+                "hausnr": "169",
+                "plz": "53115",
+                "telefon": "0228/ 732761",
+                "fax": "0228/ 732763",
+                "email": "min.museum@uni-bonn.de",
+                "internet": "www.ifgeo.uni-bonn.de/museen/mineralogisches-museum",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-01535",
+                "plzort": "53115 Bonn",
+                "adresse": "Meckenheimer Allee 169"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0926226561,
+                    50.7321249359
+                ]
+            },
+            "properties": {
+                "point_id": 98457,
+                "name": "LVR-Landesmuseum Bonn",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1150,
+                "strasse_bezeichnung": "Colmantstraße",
+                "hausnr": "14-16",
+                "plz": "53115",
+                "telefon": "0228/ 20700",
+                "fax": "0228/ 2070299",
+                "email": "info.landesmuseum-bonn@lvr.de",
+                "internet": "www.landesmuseum-bonn.lvr.de",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-01150",
+                "plzort": "53115 Bonn",
+                "adresse": "Colmantstraße 14-16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0774436945,
+                    50.7244389563
+                ]
+            },
+            "properties": {
+                "point_id": 98458,
+                "name": "Schumannhaus",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1707,
+                "strasse_bezeichnung": "Sebastianstraße",
+                "hausnr": "182",
+                "plz": "53115",
+                "telefon": null,
+                "fax": null,
+                "email": null,
+                "internet": "www.schumannhaus-bonn.de",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-01707",
+                "plzort": "53115 Bonn",
+                "adresse": "Sebastianstraße 182"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1046249582,
+                    50.7347340682
+                ]
+            },
+            "properties": {
+                "point_id": 98459,
+                "name": "Stadtmuseum Bonn",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1234,
+                "strasse_bezeichnung": "Franziskanerstraße",
+                "hausnr": "9",
+                "plz": "53113",
+                "telefon": "0228/ 772094",
+                "fax": "0228/ 774298",
+                "email": null,
+                "internet": "https://intranet.bonn.de/vv/oe/_/Dez._IV/41/41-2/41-23/Stadtmuseum.php",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-01234",
+                "plzort": "53113 Bonn",
+                "adresse": "Franziskanerstraße 9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1500558418,
+                    50.6993591574
+                ]
+            },
+            "properties": {
+                "point_id": 98462,
+                "name": "Wissenschaftszentrum Bonn",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 2005,
+                "strasse_bezeichnung": "Ahrstraße",
+                "hausnr": "45",
+                "plz": "53175",
+                "telefon": "0228 3020",
+                "fax": null,
+                "email": "wissenschaftszentrum@wzbonn.de",
+                "internet": "www.wzbonn.de",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-02005",
+                "plzort": "53175 Bonn",
+                "adresse": "Ahrstraße 45"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1440119168,
+                    50.7052020862
+                ]
+            },
+            "properties": {
+                "point_id": 230520,
+                "name": "Haus der Philatelie und der Postgeschichte",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 2480,
+                "strasse_bezeichnung": "Mildred-Scheel-Straße",
+                "hausnr": "2",
+                "plz": "53175",
+                "telefon": "0228/ 308580 ",
+                "fax": "0228/ 3085812 ",
+                "email": "info@bdph.de ",
+                "internet": "www.bdph.de ",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-02480",
+                "plzort": "53175 Bonn",
+                "adresse": "Mildred-Scheel-Straße 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1298959504,
+                    50.7538112292
+                ]
+            },
+            "properties": {
+                "point_id": 436866,
+                "name": "Haus Stroof",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 3002,
+                "strasse_bezeichnung": "Adelheidisstraße",
+                "hausnr": "3",
+                "plz": "53225",
+                "telefon": "0228/ 42214664",
+                "fax": "0228/ 42214665",
+                "email": "denkmalverein.bonn@t-online.de",
+                "internet": "www.denkmalverein-bonn.de/",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-03002",
+                "plzort": "53225 Bonn",
+                "adresse": "Adelheidisstraße 3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0903424584,
+                    50.721657314
+                ]
+            },
+            "properties": {
+                "point_id": 436871,
+                "name": "Poppelsdorfer Heimatsammlung Stöcker",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1718,
+                "strasse_bezeichnung": "Sternenburgstraße",
+                "hausnr": "23",
+                "plz": "53115",
+                "telefon": "0228/ 611786",
+                "fax": "0228/ 6200920",
+                "email": "post@poppelsdorfer-geschichte.de",
+                "internet": "www.poppelsdorfer-geschichte.de",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-01718",
+                "plzort": "53115 Bonn",
+                "adresse": "Sternenburgstraße 23"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1048413085,
+                    50.7306556406
+                ]
+            },
+            "properties": {
+                "point_id": 463627,
+                "name": "Arithmeum",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1484,
+                "strasse_bezeichnung": "Lennéstraße",
+                "hausnr": "2",
+                "plz": "53113",
+                "telefon": "0228/ 738790",
+                "fax": "0228/ 738771",
+                "email": "arithmeum@or.uni-bonn.de",
+                "internet": "www.arithmeum.uni-bonn.de/",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": null,
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-01484",
+                "plzort": "53113 Bonn",
+                "adresse": "Lennéstraße 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0898939949,
+                    50.7264513103
+                ]
+            },
+            "properties": {
+                "point_id": 588945,
+                "name": "Goldfußmuseum",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1577,
+                "strasse_bezeichnung": "Nußallee",
+                "hausnr": "8",
+                "plz": "53115",
+                "telefon": "0228/ 733103",
+                "fax": "0228/ 733509",
+                "email": null,
+                "internet": "www.steinmann.uni-bonn.de/museen",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-01577",
+                "plzort": "53115 Bonn",
+                "adresse": "Nußallee 8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1046949812,
+                    50.7347299884
+                ]
+            },
+            "properties": {
+                "point_id": 606624,
+                "name": "Gedenkstätte für die Opfer des Nationalsozialismus",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1234,
+                "strasse_bezeichnung": "Franziskanerstraße",
+                "hausnr": "9",
+                "plz": "53113",
+                "telefon": "0228/ 695240",
+                "fax": "228/ 695217",
+                "email": "gedenkstaette-bonn@netcologne.de",
+                "internet": "www.ns-gedenkstaetten.de",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": null,
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-01234",
+                "plzort": "53113 Bonn",
+                "adresse": "Franziskanerstraße 9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0941575404,
+                    50.7358585334
+                ]
+            },
+            "properties": {
+                "point_id": 624301,
+                "name": "Rheinisches Malermuseum Bonn",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1183,
+                "strasse_bezeichnung": "Budapester Straße",
+                "hausnr": "23",
+                "plz": "53111",
+                "telefon": "0228/ 690193 ",
+                "fax": null,
+                "email": null,
+                "internet": "www.rheinischemuseen.de/museum/DE-MUS-405212",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-01183",
+                "plzort": "53111 Bonn",
+                "adresse": "Budapester Straße 23"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0657450296,
+                    50.7452640842
+                ]
+            },
+            "properties": {
+                "point_id": 628917,
+                "name": "Orth-Haus",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1098,
+                "strasse_bezeichnung": "Berta-Lungstras-Straße",
+                "hausnr": "45",
+                "plz": "53119",
+                "telefon": "0228/ 9876050",
+                "fax": "0228/ 9876051",
+                "email": "op@orth-haus.de",
+                "internet": "www.orth-haus.com/",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2006-05-19T00:00:00+02:00",
+                "strasse_ort": "0050-01098",
+                "plzort": "53119 Bonn",
+                "adresse": "Berta-Lungstras-Straße 45"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1010761711,
+                    50.7405586253
+                ]
+            },
+            "properties": {
+                "point_id": 743102,
+                "name": "Dentalhistorische Sammlung",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1809,
+                "strasse_bezeichnung": "Welschnonnenstraße",
+                "hausnr": "17",
+                "plz": null,
+                "telefon": "0228/ 87-22335",
+                "fax": null,
+                "email": "e.helfgen@uni-bonn.de",
+                "internet": "www.ukbonn.de/zentrum-fuer-zahn-mund-und-kieferheilkunde/polikliniken/zahnaerztliche-prothetik-propaedeutik-und-werkstoffwissenschaften/dentalhistorische-sammlung-der-universitaet-bonn/",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2008-04-04T00:00:00+02:00",
+                "strasse_ort": "0050-01809",
+                "plzort": "Bonn",
+                "adresse": "Welschnonnenstraße 17"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0999884649,
+                    50.7372867813
+                ]
+            },
+            "properties": {
+                "point_id": 743103,
+                "name": "BASA-Museum (Bonner Altamerika Sammlung)",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1515,
+                "strasse_bezeichnung": "Oxfordstraße",
+                "hausnr": "15",
+                "plz": "53111",
+                "telefon": "0228/ 73 5737",
+                "fax": "0228/ 73 4985",
+                "email": "base@uni-bonn.de",
+                "internet": "www.altamerikasammlung.uni-bonn.de",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": "2008-04-04T00:00:00+02:00",
+                "strasse_ort": "0050-01515",
+                "plzort": "53111 Bonn",
+                "adresse": "Oxfordstraße 15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1061242953,
+                    50.734670674
+                ]
+            },
+            "properties": {
+                "point_id": 743426,
+                "name": "Ägyptisches Museum",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1487,
+                "strasse_bezeichnung": "Regina-Pacis-Weg",
+                "hausnr": "7",
+                "plz": "53103",
+                "telefon": "0228 739710/17",
+                "fax": "0228 737360",
+                "email": "E-mail: aegyptisches-museum(at)uni-bonn.de",
+                "internet": "www.aegyptisches-museum.uni-bonn.de",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": null,
+                "erfassung_datum": "2010-09-27T00:00:00+02:00",
+                "strasse_ort": "0050-01487",
+                "plzort": "53103 Bonn",
+                "adresse": "Regina-Pacis-Weg 7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1021077062,
+                    50.732802031
+                ]
+            },
+            "properties": {
+                "point_id": 743794,
+                "name": "Universitätsmuseum",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1487,
+                "strasse_bezeichnung": "Regina-Pacis-Weg",
+                "hausnr": "1",
+                "plz": "53113",
+                "telefon": "0228 735367",
+                "fax": "0228 737840",
+                "email": "abert@verwaltung.uni-bonn.de",
+                "internet": "www.museum.uni-bonn.de",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": "  ",
+                "erfassung_datum": null,
+                "strasse_ort": "0050-01487",
+                "plzort": "53113 Bonn",
+                "adresse": "Regina-Pacis-Weg 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1022260437,
+                    50.7329367281
+                ]
+            },
+            "properties": {
+                "point_id": 743997,
+                "name": "Paul-Clemen-Museum",
+                "ort": "50    ",
+                "ort_bezeichnung": "Bonn",
+                "strasse": 1487,
+                "strasse_bezeichnung": "Regina-Pacis-Weg",
+                "hausnr": "1",
+                "plz": "53113",
+                "telefon": null,
+                "fax": null,
+                "email": null,
+                "internet": "www.khi.uni-bonn.de/de/Paul-Clemen-Museum",
+                "traeger": null,
+                "oeffentlich": 1,
+                "barrierefrei": 0,
+                "sammelfeld": null,
+                "erfassung_datum": null,
+                "strasse_ort": "0050-01487",
+                "plzort": "53113 Bonn",
+                "adresse": "Regina-Pacis-Weg 1"
+            }
+        }
+    ]
+}
