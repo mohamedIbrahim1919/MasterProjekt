@@ -8,6 +8,8 @@ from Parking import parse_parking_geojson
 from utils import distance
 from typing import List, Tuple, Union, Dict
 from matplotlib.colors import ListedColormap
+import contextily as ctx  # Import contextily library
+
 
 def add_parking_to_graph(graph: "nx.Graph", parking_nodes: List[Tuple]) -> None:
     """Add parking nodes to the graph"""
@@ -94,9 +96,7 @@ def main():
         parking_nodes = parse_parking_geojson()
         add_parking_to_graph(graph, parking_nodes)
         
-
         # Perform parking analysis
-        
         path, total_distance, bike_distance, walking_distance, graph, bike_path_start_to_parking, walking_path_parking_to_node, min_distance_parking_node  = parking_analysis(start_node, end_node, alpha_value, graph)
         
         # Nearest node to start node
@@ -115,6 +115,7 @@ def main():
         # Print the total distance
         print("Total distance:", total_distance/1000, "km")
 
+
         # Plot the graph using UTM coordinates
         pos = nx.get_node_attributes(graph, "utm_coord")
         edges = graph.edges()
@@ -129,9 +130,6 @@ def main():
         # Convert coordinates to edges for walking path
         walking_path_edges = [(walking_path_parking_to_node[i], walking_path_parking_to_node[i+1]) for i in range(len(walking_path_parking_to_node)-1)]
         #print("walking path edges: ", walking_path_edges)
-
- 
-
 
         # Assign colors based on edge categories
         edge_colors = [
@@ -188,8 +186,6 @@ def main():
         # Add legend with text
         plt.axis("equal")
         plt.show()
-
-
 
 if __name__ == "__main__":
     main()
