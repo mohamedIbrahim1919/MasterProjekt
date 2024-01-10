@@ -23,106 +23,173 @@ def add_parking_to_graph(graph: "nx.Graph", parking_nodes: List[Tuple]) -> None:
         )
 
 def calculate_walking_distances(graph, end_node, parking_nodes):
-    paths = nx.single_source_dijkstra_path(graph, end_node, weight='distance')
-    walking_paths = {tuple(node): paths[node] for node in parking_nodes if tuple(node) in paths and isinstance(paths[tuple(node)][-1], (int, float))}
-    #print("walking Path: ", walking_paths)
+        
+    walking_paths = nx.single_source_dijkstra_path(graph, end_node, weight='distance')
+    #print("walk paths: ", paths)
+    #print("walking_paths: ", walking_paths)
     walking_distances = {}
     for node, path in walking_paths.items():
         distance = 0
         for i in range(len(path) - 1):
             distance += graph[path[i]][path[i + 1]]["distance"]
-        walking_distances[node] = (distance, path)
+        walking_distances[node] = distance
     return walking_paths, walking_distances
 
 def calculate_bike_distances(graph, start_node, parking_nodes, alphaa):
-    paths = nx.single_source_dijkstra_path(graph, start_node, weight='weight')
+    bike_paths = nx.single_source_dijkstra_path(graph, start_node, weight='weight')
     #print("bike paths: ", paths)
-    bike_paths = {tuple(node): path for node, path in paths.items() if tuple(node) in parking_nodes and isinstance(path, list)}
     #print("bike Path: ", bike_paths)
     bike_distances = {}
     for node, path in bike_paths.items():
         distance = 0
         for i in range(len(path) - 1):
             distance += graph[path[i]][path[i + 1]]["distance"]
-        bike_distances[node] = (distance, path)
-    return bike_distances, bike_paths
+        bike_distances[node] = distance
+    return bike_paths, bike_distances
 
 def parking_analysis(start_node, end_node, alphaa, graph):
     parking_nodes = parse_parking_geojson()
     graph = read_graph(alphaa)
     add_parking_to_graph(graph, parking_nodes)
 
-    min_distance_parking_node = end_node
-    total_distance = 0
+    nearest_start_node, start_distance = find_nearest_node(graph, start_node)
+    nearest_end_node, end_distance = find_nearest_node(graph, end_node)
 
-    try:
-        nearest_start_node = find_nearest_node(graph, start_node), 0
+    bike_paths, bike_distances = calculate_bike_distances(graph, nearest_start_node, parking_nodes, alphaa)
+    walking_paths, walking_distances = calculate_walking_distances(graph, nearest_end_node, parking_nodes)
 
-        if start_node not in parking_nodes:
-            start_bike_distances = calculate_bike_distances(graph, start_node, parking_nodes, alphaa)
-            if not start_bike_distances:
-                raise ValueError("Error: Bike distance could not be calculated for the start node.")
-        else:
-            start_bike_distances = {}
+    total_distances = [walking_distances[node] + bike_distances[node] for node in parking_nodes]
+    min_distance = min(total_distances)
+    idx_min = total_distances.index(min_distance)
+    min_distance_parking_node = parking_nodes[idx_min]
 
-        if end_node not in parking_nodes:
-            nearest_start_node, end_node = find_nearest_node(graph, nearest_start_node), find_nearest_node(graph, end_node)
-            walking_distances, bike_distances = calculate_walking_distances(graph, end_node, parking_nodes), calculate_bike_distances(graph, nearest_start_node, parking_nodes, alphaa)
+    total_distance = total_distances[idx_min]
+    bike_distance = bike_distances[min_distance_parking_node]
+    walking_distance = walking_distances[min_distance_parking_node]
 
-            if not walking_distances or not bike_distances:
-                raise ValueError("Error: Walking or bike distances could not be calculated.")
+    # Extract bike and walking paths
+    bike_path_start_to_parking = bike_paths[min_distance_parking_node]
+    walking_path_parking_to_end = walking_paths[min_distance_parking_node]
 
-            min_distance_parking_node = min(parking_nodes, key=lambda node: walking_distances[node] + bike_distances[node])
+    return (
+        [nearest_start_node] + [min_distance_parking_node] + [end_node],
+        total_distance,
+        bike_distance,
+        walking_distance,
+        graph,
+        bike_path_start_to_parking,
+        walking_path_parking_to_end,
+        min_distance_parking_node,
+    )
 
-            if min_distance_parking_node in walking_distances and min_distance_parking_node in bike_distances:
-                total_distance = walking_distances[min_distance_parking_node][0] + bike_distances[min_distance_parking_node][0]
-            else:
-                total_distance = bike_distances[min_distance_parking_node][0]
-
-        return [nearest_start_node] + [min_distance_parking_node] + [end_node], total_distance, graph
-
-    except Exception as e:
-        encoded_error = str(e).encode(sys.stdout.encoding, errors='replace')
-        print("Error:", encoded_error.decode(sys.stdout.encoding))
-        return None, 0, graph
 
 def main():
-    try:
-        start_node = (7.095775, 50.7373406)
-        end_node = (7.0881976166, 50.7213184826)
-        alpha_value = 1
+    
+        start_node = (7.1071226, 50.7319471)
+        end_node = (7.0931056, 50.7264752)
+        alpha_value = 0
 
         # Load the graph and parking nodes
         graph = read_graph(alpha_value)
         parking_nodes = parse_parking_geojson()
         add_parking_to_graph(graph, parking_nodes)
+        
 
         # Perform parking analysis
-        path, total_distance, graph = parking_analysis(start_node, end_node, alpha_value, graph)
-        bike_distances, _ = calculate_bike_distances(graph, start_node, parking_nodes, alpha_value)
-        walking_distances, _ = calculate_walking_distances(graph, end_node, parking_nodes)
+        
+        path, total_distance, bike_distance, walking_distance, graph, bike_path_start_to_parking, walking_path_parking_to_node, min_distance_parking_node  = parking_analysis(start_node, end_node, alpha_value, graph)
+        
+        # Nearest node to start node
+        nearest_start_node, _ = find_nearest_node(graph, start_node)
+        print("nearest start node:" , nearest_start_node)
 
-        if path is not None:
-            if end_node in parking_nodes:
-                # If the end node is a parking node, set min_distance_parking_node to end_node
-                min_distance_parking_node = end_node
-                walking_distances[min_distance_parking_node] = 0
-                total_distance = (bike_distances[min_distance_parking_node][0])/1000    
-            else:
-                min_distance_parking_node = min(parking_nodes, key=lambda node: walking_distances[node] + bike_distances[node])
+        # Nearest node to end node
+        nearest_end_node, _ = find_nearest_node(graph, end_node)
+        print("nearest end node:", nearest_end_node)
 
-            print("min park node:", min_distance_parking_node)
-            print("walking distance:", (walking_distances[min_distance_parking_node])/1000,"km")
-            print("bike distance:", (bike_distances[min_distance_parking_node][0])/1000,"km")
-            print("Bike path :", bike_distances[min_distance_parking_node][1])
-            # Print the total distance
-            print("Total distance:", total_distance)
+        #print("walking path: ", walking_path_parking_to_node)
+        #print("bike path: ", bike_path_start_to_parking)
+        #print("min park node:", path[1])
+        print("walking distance:", walking_distance/1000,"km")
+        print("bike distance:", bike_distance/1000,"km")
+        # Print the total distance
+        print("Total distance:", total_distance/1000, "km")
 
-        else:
-            print("Analysis failed.")
+        # Plot the graph using UTM coordinates
+        pos = nx.get_node_attributes(graph, "utm_coord")
+        edges = graph.edges()
 
-    except Exception as e:
-        print("An error occurred:", str(e))
+        # Extract edge categories from the GeoJSON properties
+        edge_categories = [graph.get_edge_data(edge[0], edge[1])["category"] for edge in edges]
+        
+        # Convert coordinates to edges for bike path
+        bike_path_edges = [(bike_path_start_to_parking[i], bike_path_start_to_parking[i+1]) for i in range(len(bike_path_start_to_parking)-1)]
+        #print("bike path edges: ", bike_path_edges)
+
+        # Convert coordinates to edges for walking path
+        walking_path_edges = [(walking_path_parking_to_node[i], walking_path_parking_to_node[i+1]) for i in range(len(walking_path_parking_to_node)-1)]
+        #print("walking path edges: ", walking_path_edges)
+
+ 
+
+
+        # Assign colors based on edge categories
+        edge_colors = [
+            "orange" if category == "shared with cars" else
+            "green" if category == "designated paths" else
+            "blue" if category == "shared with pedestrian" else
+            "red"  # for "No Infrastructure"
+            for category in edge_categories
+        ]
+        
+        # Draw edges for the entire graph with category colors
+        nx.draw_networkx_edges(graph, pos, edgelist=edges, edge_color='gray', width=1, alpha=0.5, label="Road Network")
+
+        # Draw the walking path to the node with a specific color
+        nx.draw_networkx_edges(graph, pos, edgelist=walking_path_edges, edge_color='green', width=2, label="Walking Path")
+
+        # Draw the bike path to the parking with a specific color
+        nx.draw_networkx_edges(graph, pos, edgelist=bike_path_edges, edge_color='blue', width=2, label="Bike Path")
+
+        nx.draw_networkx_nodes(graph, pos, nodelist=[nearest_start_node], node_color='green', node_size=100, label=" Start Node")
+        nx.draw_networkx_nodes(graph, pos, nodelist=[nearest_end_node], node_color='red', node_size=100, label=" End Node")
+        nx.draw_networkx_nodes(
+            graph,
+            pos,
+            nodelist=[min_distance_parking_node],
+            node_color='blue',
+            node_size=100,
+            label="Min Distance Parking Node",
+        )
+
+        # Draw the legend
+        legend_elements = [
+            plt.Line2D([0], [0], color='green', marker='o', linestyle='None', markersize=8, label='Start Node'),
+            plt.Line2D([0], [0], color='red', marker='o', linestyle='None', markersize=8, label='End Node'),
+            plt.Line2D([0], [0], color='blue', marker='o', linestyle='None', markersize=8, label='Min Distance Parking Node'),
+            plt.Line2D([0], [0], color='green', linewidth=2, label=f'Walking Path = {walking_distance/1000:.2f} km'),
+            plt.Line2D([0], [0], color='blue', linewidth=2, label=f'Bike Path = {bike_distance/1000:.2f} km'),
+            plt.Line2D([0], [0], color='gray', linewidth=1, label='Road Network'),
+        ]
+
+        # Add the legend text for total path
+        legend_text_total_path = f'Total Path = {total_distance/1000:.2f} km'
+        legend_elements.append(plt.Line2D([0], [0], color='white', label=legend_text_total_path))
+
+        # Add the legend text
+        legend_text = f'α = {alpha_value:.2f}'
+        legend_elements.append(plt.Line2D([0], [0], color='white', label=legend_text))
+
+        plt.legend(handles=legend_elements, loc='upper right')
+
+        # Set x and y axis labels in UTM format
+        plt.xlabel('X UTM Coordinate')
+        plt.ylabel('Y UTM Coordinate')
+        # Add legend with text
+        plt.axis("equal")
+        plt.show()
+
+
 
 if __name__ == "__main__":
     main()
