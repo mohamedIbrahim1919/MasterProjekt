@@ -9,6 +9,7 @@ from utils import distance
 from typing import List, Tuple, Union, Dict
 from matplotlib.colors import ListedColormap
 import contextily as ctx  # Import contextily library
+import geopandas as gpd
 
 
 def add_parking_to_graph(graph: "nx.Graph", parking_nodes: List[Tuple]) -> None:
@@ -87,9 +88,9 @@ def parking_analysis(start_node, end_node, alphaa, graph):
 
 def main():
     
-        start_node = (7.1071226, 50.7319471)
-        end_node = (7.0931056, 50.7264752)
-        alpha_value = 0
+        start_node = (7.0698985, 50.7311079)
+        end_node = (7.0903986, 50.7318045)
+        alpha_value = 1
 
         # Load the graph and parking nodes
         graph = read_graph(alpha_value)
@@ -139,15 +140,19 @@ def main():
             "red"  # for "No Infrastructure"
             for category in edge_categories
         ]
-        
+        # Plot the graph using UTM coordinates
+        fig, ax = plt.subplots()
         # Draw edges for the entire graph with category colors
-        nx.draw_networkx_edges(graph, pos, edgelist=edges, edge_color='gray', width=1, alpha=0.5, label="Road Network")
+        nx.draw_networkx_edges(graph, pos, edgelist=edges, edge_color='gray', width=3, alpha=0.8, label="Road Network")
 
         # Draw the walking path to the node with a specific color
-        nx.draw_networkx_edges(graph, pos, edgelist=walking_path_edges, edge_color='green', width=2, label="Walking Path")
+        nx.draw_networkx_edges(graph, pos, edgelist=walking_path_edges, edge_color='green', width=5, label="Walking Path")
 
         # Draw the bike path to the parking with a specific color
-        nx.draw_networkx_edges(graph, pos, edgelist=bike_path_edges, edge_color='blue', width=2, label="Bike Path")
+        nx.draw_networkx_edges(graph, pos, edgelist=bike_path_edges, edge_color='blue', width=5, label="Bike Path")
+        # Draw all parking nodes in blue
+        nx.draw_networkx_nodes(graph, pos, nodelist=parking_nodes, node_color='blue', node_size=20, label="Parking Nodes")
+
 
         nx.draw_networkx_nodes(graph, pos, nodelist=[nearest_start_node], node_color='green', node_size=100, label=" Start Node")
         nx.draw_networkx_nodes(graph, pos, nodelist=[nearest_end_node], node_color='red', node_size=100, label=" End Node")
@@ -157,34 +162,47 @@ def main():
             nodelist=[min_distance_parking_node],
             node_color='blue',
             node_size=100,
-            label="Min Distance Parking Node",
+            label="Parking Node",
         )
+
+
 
         # Draw the legend
         legend_elements = [
             plt.Line2D([0], [0], color='green', marker='o', linestyle='None', markersize=8, label='Start Node'),
             plt.Line2D([0], [0], color='red', marker='o', linestyle='None', markersize=8, label='End Node'),
-            plt.Line2D([0], [0], color='blue', marker='o', linestyle='None', markersize=8, label='Min Distance Parking Node'),
+            plt.Line2D([0], [0], color='blue', marker='o', linestyle='None', markersize=8, label='Parking Node'),
             plt.Line2D([0], [0], color='green', linewidth=2, label=f'Walking Path = {walking_distance/1000:.2f} km'),
             plt.Line2D([0], [0], color='blue', linewidth=2, label=f'Bike Path = {bike_distance/1000:.2f} km'),
             plt.Line2D([0], [0], color='gray', linewidth=1, label='Road Network'),
         ]
 
         # Add the legend text for total path
-        legend_text_total_path = f'Total Path = {total_distance/1000:.2f} km'
-        legend_elements.append(plt.Line2D([0], [0], color='white', label=legend_text_total_path))
+        #legend_text_total_path = f'Total Path = {total_distance/1000:.2f} km'
+        #legend_elements.append(plt.Line2D([0], [0], color='white', label=legend_text_total_path))
 
         # Add the legend text
-        legend_text = f'α = {alpha_value:.2f}'
-        legend_elements.append(plt.Line2D([0], [0], color='white', label=legend_text))
+        #legend_text = f'α = {alpha_value:.2f}'
+        #egend_elements.append(plt.Line2D([0], [0], color='white', label=legend_text))
+        # Convert pos dictionary to a GeoDataFrame
+        #gdf = gpd.GeoDataFrame(geometry=gpd.points_from_xy(*zip(*pos.values())))
+
+        # Set the CRS explicitly
+        #gdf.crs = "EPSG:32632"  
+
+        # Add base map using contextily without roads and labels (using CartoDB Positron)
+        #ctx.add_basemap(ax=plt.gca(), crs=gdf.crs, source=ctx.providers.CartoDB.Positron, zoom=12)
 
         plt.legend(handles=legend_elements, loc='upper right')
-
+        
         # Set x and y axis labels in UTM format
         plt.xlabel('X UTM Coordinate')
         plt.ylabel('Y UTM Coordinate')
         # Add legend with text
         plt.axis("equal")
+        # Display numeric values of x and y axes on the bottom and left sides
+        ax.tick_params(axis='both', which='both', direction='inout', bottom=True, left=True, labelbottom=True, labelleft=True)
+
         plt.show()
 
 if __name__ == "__main__":
