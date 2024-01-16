@@ -27,7 +27,7 @@ def add_parking_to_graph(graph: "nx.Graph", parking_nodes: List[Tuple]) -> None:
 
 def calculate_walking_distances(graph, end_node, parking_nodes):
         
-    walking_paths = nx.single_source_dijkstra_path(graph, end_node, weight='distance')
+    walking_paths = nx.single_source_dijkstra_path(graph, end_node, weight='weight')
     #print("walk paths: ", paths)
     #print("walking_paths: ", walking_paths)
     walking_distances = {}
@@ -88,8 +88,8 @@ def parking_analysis(start_node, end_node, alphaa, graph):
 
 def main():
     
-        start_node = (7.0698985, 50.7311079)
-        end_node = (7.0903986, 50.7318045)
+        start_node = (7.1071226, 50.7319471)
+        end_node = (7.0931056, 50.7264752)
         alpha_value = 1
 
         # Load the graph and parking nodes

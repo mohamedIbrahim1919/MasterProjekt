@@ -14,3 +14,13 @@ Test3
         start_node = (7.1071226, 50.7319471)
         end_node = (7.0931056, 50.7264752)
         alpha_value = 0
+
+Test4(com)   
+        start_node = (7.0903986, 50.7318045)
+        end_node = (7.0907705, 50.7337928)
+        alpha_value = 1
+
+Test4
+        start_node = (7.0530159, 50.7358723)
+        end_node = (7.072738, 50.7370188)
+        alpha_value = 0
