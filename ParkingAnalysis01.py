@@ -27,7 +27,7 @@ def add_parking_to_graph(graph: "nx.Graph", parking_nodes: List[Tuple]) -> None:
 
 def calculate_walking_distances(graph, end_node, parking_nodes):
         
-    walking_paths = nx.single_source_dijkstra_path(graph, end_node, weight='weight')
+    walking_paths = nx.single_source_dijkstra_path(graph, end_node, weight='walking_time')
     #print("walk paths: ", paths)
     #print("walking_paths: ", walking_paths)
     walking_distances = {}
@@ -39,7 +39,7 @@ def calculate_walking_distances(graph, end_node, parking_nodes):
     return walking_paths, walking_distances
 
 def calculate_bike_distances(graph, start_node, parking_nodes, alphaa):
-    bike_paths = nx.single_source_dijkstra_path(graph, start_node, weight='weight')
+    bike_paths = nx.single_source_dijkstra_path(graph, start_node, weight='cycling_time')
     #print("bike paths: ", paths)
     #print("bike Path: ", bike_paths)
     bike_distances = {}
@@ -52,8 +52,9 @@ def calculate_bike_distances(graph, start_node, parking_nodes, alphaa):
 
 def parking_analysis(start_node, end_node, alphaa, graph):
     parking_nodes = parse_parking_geojson()
-    graph = read_graph(alphaa)
-    add_parking_to_graph(graph, parking_nodes)
+    #graph = read_graph(alphaa)
+
+    #add_parking_to_graph(graph, parking_nodes)
 
     nearest_start_node, start_distance = find_nearest_node(graph, start_node)
     nearest_end_node, end_distance = find_nearest_node(graph, end_node)
@@ -90,7 +91,7 @@ def main():
     
         start_node = (7.1071226, 50.7319471)
         end_node = (7.0931056, 50.7264752)
-        alpha_value = 1
+        alpha_value = 0
 
         # Load the graph and parking nodes
         graph = read_graph(alpha_value)

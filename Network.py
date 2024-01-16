@@ -86,6 +86,10 @@ def get_category_color(properties: Dict, category_colors: Dict) -> str:
     else:
         return "No Infrastructure"
 
+def add_times(graph):
+    for edge in graph.edges:
+        graph.edges[edge]['walking_time'] = graph.edges[edge]['distance']*1
+        graph.edges[edge]['cycling_time'] = graph.edges[edge]['weight']/100
 
 
 def read_graph(alphaa: float = 1.0) -> nx.Graph:
@@ -121,8 +125,9 @@ def read_graph(alphaa: float = 1.0) -> nx.Graph:
     graph = graph.subgraph(largest_connected_component).copy()
     coords = [node[1]["utm_coord"] for node in graph.nodes(data=True)]
     graph.graph["kdTree"] = KDTree(coords)
+    add_times(graph)
     return graph
-
+  
 
 def calculate_shortest_safest_path(
     graph: nx.Graph, start_node: Tuple, end_node: Tuple) -> Tuple[List, float, nx.Graph]:
@@ -183,6 +188,8 @@ if __name__ == "__main__":
 
     try:
         graph = read_graph(alphaa)
+
+        add_times(graph)
 
         # Find the nearest nodes in the graph
         start_node_utm, _ = find_nearest_node(graph, start_node)
